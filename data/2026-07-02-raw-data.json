@@ -1,0 +1,1248 @@
+{
+  "date": "2026-07-02",
+  "github_projects": [
+    {
+      "keyword": "humanoid robot",
+      "full_name": "Rachit1801/rl-humanoid",
+      "html_url": "https://github.com/Rachit1801/rl-humanoid",
+      "description": "Reinforcement learning research for humanoid robot",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-05-21T10:20:21Z",
+      "updated_at": "2026-07-02T09:00:55Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "marunigno-ship-it/QERRA-v2-classical",
+      "html_url": "https://github.com/marunigno-ship-it/QERRA-v2-classical",
+      "description": "Classical explainable ethical evaluation engine for AI systems and humanoid robots — SEMEV-12 framework, 12 vectors, fully auditable.",
+      "language": "Python",
+      "stargazers_count": 1,
+      "created_at": "2026-04-10T13:11:14Z",
+      "updated_at": "2026-07-02T08:52:37Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "SEMHAQ/MIMO-WM",
+      "html_url": "https://github.com/SEMHAQ/MIMO-WM",
+      "description": "SSM-based world model for embodied intelligence and humanoid robot state prediction. Targeting CTA journal special issue.",
+      "language": "Python",
+      "stargazers_count": 1,
+      "created_at": "2026-06-02T06:32:12Z",
+      "updated_at": "2026-07-02T08:39:30Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "5G-ERA/G1_UNITREE_ROBOT_META_REASONING",
+      "html_url": "https://github.com/5G-ERA/G1_UNITREE_ROBOT_META_REASONING",
+      "description": "Meta-reasoning with analogy tests using G1 Humanoid robot. ",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-25T10:41:00Z",
+      "updated_at": "2026-07-02T08:32:04Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "ImChong/Humanoid_Robot_Learning_Paper_Notebooks",
+      "html_url": "https://github.com/ImChong/Humanoid_Robot_Learning_Paper_Notebooks",
+      "description": "人形机器人强化学习论文阅读任务汇总",
+      "language": "Python",
+      "stargazers_count": 10,
+      "created_at": "2026-03-15T17:20:51Z",
+      "updated_at": "2026-07-02T07:49:02Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "solarh3ll/optimus",
+      "html_url": "https://github.com/solarh3ll/optimus",
+      "description": "Simulate autonomous humanoid robots with a 7-layer cognitive model, multi-environment navigation, athletics, and self-repair diagnostics in pure HTML5 Canvas.",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "created_at": "2026-03-03T03:47:13Z",
+      "updated_at": "2026-07-02T07:28:18Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "Roboparty/roboto_origin",
+      "html_url": "https://github.com/Roboparty/roboto_origin",
+      "description": "Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人",
+      "language": "Python",
+      "stargazers_count": 1973,
+      "created_at": "2025-12-31T09:30:49Z",
+      "updated_at": "2026-07-02T06:54:01Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "gururaj9790/bambot",
+      "html_url": "https://github.com/gururaj9790/bambot",
+      "description": "Low cost (~$300) humanoid robot 🌱",
+      "language": "TypeScript",
+      "stargazers_count": 0,
+      "created_at": "2025-03-21T15:43:51Z",
+      "updated_at": "2026-07-02T05:41:46Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "aoru45/humanoid_tennis",
+      "html_url": "https://github.com/aoru45/humanoid_tennis",
+      "description": "This project uses mjlab to train a Unitree G1 humanoid robot to play tennis. The Python package name is humanoid_tennis, and the repository contains the reinforcement learning pipeline, tennis task design, rollout utilities, and policy export scripts.",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-04-13T15:42:46Z",
+      "updated_at": "2026-07-02T05:47:37Z"
+    },
+    {
+      "keyword": "humanoid robot",
+      "full_name": "johnzilla/robosole-io",
+      "html_url": "https://github.com/johnzilla/robosole-io",
+      "description": "Premium high-performance footwear for humanoid robots — robosole.io landing page",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T01:27:54Z",
+      "updated_at": "2026-07-02T04:46:07Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "anvil-robotics/anvil-embodied-ai",
+      "html_url": "https://github.com/anvil-robotics/anvil-embodied-ai",
+      "description": "Anvil-Embodied-AI: A robust mission-control platform for Physical AI. Providing the essential infrastructure to deploy, orchestrate, and optimize advanced AI models on Anvil Robotics' robot platforms. Explore more at https://anvil.bot/",
+      "language": "Python",
+      "stargazers_count": 11,
+      "created_at": "2026-02-04T06:14:38Z",
+      "updated_at": "2026-07-02T09:15:56Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "YuHai001/ai-paper-digest",
+      "html_url": "https://github.com/YuHai001/ai-paper-digest",
+      "description": "Daily multi-source digest for AI, machine learning, large model, and embodied intelligence papers.",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:09:34Z",
+      "updated_at": "2026-07-02T09:12:46Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "ZhuYun97/embodied-ai-learning",
+      "html_url": "https://github.com/ZhuYun97/embodied-ai-learning",
+      "description": "具身智能学习站 · VLA 模型发展深度调研 + 12 篇论文细读(VitePress + Mermaid)",
+      "language": "JavaScript",
+      "stargazers_count": 13,
+      "created_at": "2026-05-30T08:49:55Z",
+      "updated_at": "2026-07-02T09:11:46Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "kaushikb11/plumbline",
+      "html_url": "https://github.com/kaushikb11/plumbline",
+      "description": "Deterministic record-replay and fusion-fidelity evaluation for language-bus robot runtimes (OM1 reference).",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T08:57:24Z",
+      "updated_at": "2026-07-02T09:10:54Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "tavon-ai/proteos",
+      "html_url": "https://github.com/tavon-ai/proteos",
+      "description": "ProteOS — derived from Proteus (Πρωτεύς), the Greek sea god of shape-shifting, wisdom, and prophecy. Just as Proteus could transform into any form, ProteOS adapts seamlessly between multiple AI providers, embodying flexibility and intelligence while maintaining Docker's oceanic heritage.",
+      "language": "Go",
+      "stargazers_count": 0,
+      "created_at": "2026-06-10T10:46:49Z",
+      "updated_at": "2026-07-02T09:05:42Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "hesterzxy/embodied-ai-tracker",
+      "html_url": "https://github.com/hesterzxy/embodied-ai-tracker",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-07T12:27:18Z",
+      "updated_at": "2026-07-02T09:00:20Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "bhaveshbakshi633/job-hunt-studio",
+      "html_url": "https://github.com/bhaveshbakshi633/job-hunt-studio",
+      "description": "Free, run-anywhere job-hunt dashboard: curated robotics/embodied-AI board, status tracking, AI cover letters (bring your own free LLM key). Auto-refreshed every 6h.",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-16T06:04:27Z",
+      "updated_at": "2026-07-02T08:59:15Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "zengury/roboonto",
+      "html_url": "https://github.com/zengury/roboonto",
+      "description": "Machine-readable robot ontologies for LLM agents — query what a robot can do, validate actions before they touch hardware. IEEE 1872-anchored. Ships Unitree G1 & AgiBot X2 packs.",
+      "language": "HTML",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T08:52:32Z",
+      "updated_at": "2026-07-02T09:08:24Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "neardws/awesome-embodied-ai-papers",
+      "html_url": "https://github.com/neardws/awesome-embodied-ai-papers",
+      "description": "Frontier survey of embodied AI: VLN, VLA/WAM, agentic planning, lightweight deployment, and autonomous robot decision-making.",
+      "language": null,
+      "stargazers_count": 2,
+      "created_at": "2026-06-28T01:44:42Z",
+      "updated_at": "2026-07-02T08:48:57Z"
+    },
+    {
+      "keyword": "embodied-ai",
+      "full_name": "gud258k-netizen/ml-embodied-ai-blog2",
+      "html_url": "https://github.com/gud258k-netizen/ml-embodied-ai-blog2",
+      "description": null,
+      "language": "TypeScript",
+      "stargazers_count": 1,
+      "created_at": "2026-07-02T08:32:12Z",
+      "updated_at": "2026-07-02T08:34:56Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "aadhi4200/autonomous_drone_ros2",
+      "html_url": "https://github.com/aadhi4200/autonomous_drone_ros2",
+      "description": "Autonomous delivery drone — ROS2 Humble + PX4 SITL + ArUco precision landing",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-28T04:43:48Z",
+      "updated_at": "2026-07-02T09:16:38Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "joao-raio-id/ldrobot-stl19p-lidar",
+      "html_url": "https://github.com/joao-raio-id/ldrobot-stl19p-lidar",
+      "description": "ROS2 repository for LDRobot LiDARs from merging the official repository from LDRobot and Community repository from Myzhar",
+      "language": "C++",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:14:27Z",
+      "updated_at": "2026-07-02T09:15:48Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "sanjaydinesh19/quadruped-robot",
+      "html_url": "https://github.com/sanjaydinesh19/quadruped-robot",
+      "description": "12-DOF quadruped robot — simulation-first RL locomotion using NVIDIA Isaac Lab (RSL-RL/PPO), ROS2 Jazzy, parametric URDF, FK/IK",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-03T18:39:51Z",
+      "updated_at": "2026-07-02T09:14:50Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "nazrinharris/brazel-stack",
+      "html_url": "https://github.com/nazrinharris/brazel-stack",
+      "description": "An autonomous vehicle ROS2 + CARLA stack, a testbed for my... well testing",
+      "language": null,
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:14:12Z",
+      "updated_at": "2026-07-02T09:14:16Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "SamuelSRI/ros2_rover_elevation_mapping_cpp",
+      "html_url": "https://github.com/SamuelSRI/ros2_rover_elevation_mapping_cpp",
+      "description": "ROS 2 C++ package for local elevation and traversability mapping from LiDAR point clouds using PCL surface normal estimation. Designed for outdoor rover navigation.",
+      "language": "C++",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:11:01Z",
+      "updated_at": "2026-07-02T09:14:03Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "1169252389ysd/ros2-airy-lidar-slam",
+      "html_url": "https://github.com/1169252389ysd/ros2-airy-lidar-slam",
+      "description": "基于 ROS2 Humble 的 Airy 激光雷达 SLAM 实验与工具包",
+      "language": "C++",
+      "stargazers_count": 0,
+      "created_at": "2026-07-01T03:50:42Z",
+      "updated_at": "2026-07-02T09:11:08Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "bit-bots/bitbots_main",
+      "html_url": "https://github.com/bit-bots/bitbots_main",
+      "description": "This git contains all RoboCup code from the Hamburg Bit-Bots.",
+      "language": "C++",
+      "stargazers_count": 78,
+      "created_at": "2018-12-13T10:05:03Z",
+      "updated_at": "2026-07-02T09:11:05Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "fortuneolose/ros2-fundamentals-lab-",
+      "html_url": "https://github.com/fortuneolose/ros2-fundamentals-lab-",
+      "description": "Practical notes and experiments from learning ROS 2 Jazzy on Ubuntu.",
+      "language": null,
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:07:26Z",
+      "updated_at": "2026-07-02T09:10:43Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "DDDyyhhh/ROS2_sim_Fast-lio",
+      "html_url": "https://github.com/DDDyyhhh/ROS2_sim_Fast-lio",
+      "description": "在ORANGEPI上仿真mid360跑fast-lio",
+      "language": "C++",
+      "stargazers_count": 0,
+      "created_at": "2026-06-29T02:44:22Z",
+      "updated_at": "2026-07-02T09:10:29Z"
+    },
+    {
+      "keyword": "ros2",
+      "full_name": "SPadmana95/ros2_ws",
+      "html_url": "https://github.com/SPadmana95/ros2_ws",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-07-02T09:05:06Z",
+      "updated_at": "2026-07-02T09:10:16Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "PsychQuant/che-pptx-mcp",
+      "html_url": "https://github.com/PsychQuant/che-pptx-mcp",
+      "description": "Swift-native MCP server for PowerPoint (.pptx) manipulation",
+      "language": "Swift",
+      "stargazers_count": 1,
+      "created_at": "2026-04-22T00:18:10Z",
+      "updated_at": "2026-07-02T09:16:32Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "PsychQuant/che-pdf-mcp",
+      "html_url": "https://github.com/PsychQuant/che-pdf-mcp",
+      "description": "Swift-native MCP server for PDF document manipulation using macOS native frameworks",
+      "language": "Swift",
+      "stargazers_count": 2,
+      "created_at": "2026-01-13T17:06:47Z",
+      "updated_at": "2026-07-02T09:16:21Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "XyC0212/Awesome-Dexterous-Manipulation",
+      "html_url": "https://github.com/XyC0212/Awesome-Dexterous-Manipulation",
+      "description": "A curated collection of the latest papers and resources on dexterous robotic manipulation, driven by a passion for research and the ambition to push the boundaries of robotics toward more capable, adaptive, and intelligent manipulation systems.",
+      "language": "Python",
+      "stargazers_count": 0,
+      "created_at": "2026-06-21T15:24:45Z",
+      "updated_at": "2026-07-02T09:14:20Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "Harish-11-V/30-DAYS-HTML-CSS-JS-COURSE",
+      "html_url": "https://github.com/Harish-11-V/30-DAYS-HTML-CSS-JS-COURSE",
+      "description": "A beginner-friendly front-end project series using HTML5, CSS3, and JavaScript, featuring 30 hands-on projects built in 30 days. Each project is created from scratch to strengthen core concepts like DOM manipulation, events, CSS animations, and data handling techniques",
+      "language": "CSS",
+      "stargazers_count": 1,
+      "created_at": "2025-12-15T17:50:43Z",
+      "updated_at": "2026-07-02T09:14:16Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "Gvmyz/ClientManipulationFramework",
+      "html_url": "https://github.com/Gvmyz/ClientManipulationFramework",
+      "description": "Research-oriented framework for low-level Windows telemetry and client-side manipulation analysis.",
+      "language": "C++",
+      "stargazers_count": 0,
+      "created_at": "2026-03-08T17:24:14Z",
+      "updated_at": "2026-07-02T09:06:05Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "amruta-khatawate/javascript-practice-projects",
+      "html_url": "https://github.com/amruta-khatawate/javascript-practice-projects",
+      "description": "A collection of JavaScript projects built while practicing core concepts, DOM manipulation, APIs, asynchronous programming, and modern JavaScript features.",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "created_at": "2026-06-30T08:05:44Z",
+      "updated_at": "2026-07-02T09:01:16Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "sheikhanasmalik/SQL-Practice",
+      "html_url": "https://github.com/sheikhanasmalik/SQL-Practice",
+      "description": "A collection of SQL queries and database exercises covering fundamental to intermediate concepts, including table creation, data manipulation, joins, subqueries, aggregate functions, views, and window functions. This repository demonstrates practical SQL skills for data analysis and database management.",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 1,
+      "created_at": "2026-06-23T07:39:34Z",
+      "updated_at": "2026-07-02T08:59:27Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "savetree-1/js_practice",
+      "html_url": "https://github.com/savetree-1/js_practice",
+      "description": "A structured JavaScript practice repository covering fundamentals, control flow, iterations, DOM manipulation, and mini-projects.",
+      "language": "JavaScript",
+      "stargazers_count": 1,
+      "created_at": "2025-12-20T01:35:14Z",
+      "updated_at": "2026-07-02T08:53:57Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "anurajrajak005/Pandas-Daily-Practice",
+      "html_url": "https://github.com/anurajrajak005/Pandas-Daily-Practice",
+      "description": "📈 A collection of daily Pandas practice notebooks and projects covering DataFrame manipulation, data exploration, missing value handling, data transformation, grouping, merging, and exploratory data analysis (EDA). This repository documents my progress in Data Science and Python.",
+      "language": "Jupyter Notebook",
+      "stargazers_count": 0,
+      "created_at": "2026-06-15T09:35:59Z",
+      "updated_at": "2026-07-02T08:51:11Z"
+    },
+    {
+      "keyword": "manipulation",
+      "full_name": "joonhyung-lee/fmb-mujoco",
+      "html_url": "https://github.com/joonhyung-lee/fmb-mujoco",
+      "description": "Functional Manipulation Benchmark (FMB) in MuJoCo",
+      "language": "Python",
+      "stargazers_count": 1,
+      "created_at": "2026-07-02T07:46:23Z",
+      "updated_at": "2026-07-02T08:51:33Z"
+    }
+  ],
+  "hacker_news_topics": [
+    {
+      "query": "robot",
+      "objectID": "48755005",
+      "title": "Oomwoo, an open-source robot vacuum you build yourself",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "author": "devicelimit",
+      "points": 278,
+      "num_comments": 51,
+      "created_at": "2026-07-02T00:48:01Z",
+      "created_at_i": 1782953281
+    },
+    {
+      "query": "robot",
+      "objectID": "48752604",
+      "title": "Armcade, remote control robot arms to play chess",
+      "url": "https://www.armcade.tv",
+      "author": "softservo",
+      "points": 3,
+      "num_comments": 2,
+      "created_at": "2026-07-01T20:21:58Z",
+      "created_at_i": 1782937318
+    },
+    {
+      "query": "robot",
+      "objectID": "48752287",
+      "title": "Agent-Owned Accounts (Deployment Environments)",
+      "url": "https://robotpaper.ai/agent-owned-accounts-deploy-environments/",
+      "author": "royosherove",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-07-01T19:57:05Z",
+      "created_at_i": 1782935825
+    },
+    {
+      "query": "robot",
+      "objectID": "48752251",
+      "title": "Ask HN: How inevitable are most accessible hard-tech startups?",
+      "url": null,
+      "author": "misterballer",
+      "points": 2,
+      "num_comments": 3,
+      "created_at": "2026-07-01T19:55:02Z",
+      "created_at_i": 1782935702
+    },
+    {
+      "query": "robot",
+      "objectID": "48751798",
+      "title": "0/6 major aerospace documentation portals are AI Agent-ready",
+      "url": null,
+      "author": "priyanshu-j",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-07-01T19:15:22Z",
+      "created_at_i": 1782933322
+    },
+    {
+      "query": "robot",
+      "objectID": "48751098",
+      "title": "Japan plans sovereign AI model and 10M robots",
+      "url": "https://www.japantimes.co.jp/news/2026/07/01/japan/japan-ai-plans/",
+      "author": "geox",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-07-01T18:20:22Z",
+      "created_at_i": 1782930022
+    },
+    {
+      "query": "robot",
+      "objectID": "48751050",
+      "title": "The hard part of AI root cause analysis is no longer the model",
+      "url": "https://coroot.com/blog/hard-part-of-ai-root-cause-analysis-is-no-longer-the-model/",
+      "author": "nikolay_sivko",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-07-01T18:16:53Z",
+      "created_at_i": 1782929813
+    },
+    {
+      "query": "robot",
+      "objectID": "48750989",
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "author": "ryanmerket",
+      "points": 177,
+      "num_comments": 245,
+      "created_at": "2026-07-01T18:12:18Z",
+      "created_at_i": 1782929538
+    },
+    {
+      "query": "robot",
+      "objectID": "48750483",
+      "title": "Exploiting Root Execution in Claude Cowork's Sandbox",
+      "url": "https://www.armadin.com/blog-posts/exploiting-root-execution-in-claude-coworks-sandbox",
+      "author": "calmseawhale",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-07-01T17:37:17Z",
+      "created_at_i": 1782927437
+    },
+    {
+      "query": "robot",
+      "objectID": "48747736",
+      "title": "Freedom Isn't Free (2018)",
+      "url": "https://logicmag.io/failure/freedom-isnt-free/",
+      "author": "robtherobber",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-07-01T14:47:15Z",
+      "created_at_i": 1782917235
+    },
+    {
+      "query": "robot",
+      "objectID": "48746700",
+      "title": "The Canary magazine has been debanked by Lloyds Bank in the UK",
+      "url": "https://www.thecanary.co/uk/2026/06/30/lloyds-canary/",
+      "author": "robtherobber",
+      "points": 6,
+      "num_comments": 4,
+      "created_at": "2026-07-01T13:45:40Z",
+      "created_at_i": 1782913540
+    },
+    {
+      "query": "robot",
+      "objectID": "48745906",
+      "title": "Show HN: OpenLily – turn your device into an Alexa-like assistant powered by LLM",
+      "url": "https://github.com/getlark/openlily",
+      "author": "crush_robo_1536",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-07-01T12:52:57Z",
+      "created_at_i": 1782910377
+    },
+    {
+      "query": "robot",
+      "objectID": "48743203",
+      "title": "Liquid AI releases a 230M model optimized for phones, Raspberry Pi, and robots",
+      "url": "https://www.liquid.ai/blog/lfm2-5-230m",
+      "author": "mpfect",
+      "points": 17,
+      "num_comments": 1,
+      "created_at": "2026-07-01T07:03:12Z",
+      "created_at_i": 1782889392
+    },
+    {
+      "query": "robot",
+      "objectID": "48742449",
+      "title": "We pay engineers to cut our infra bill",
+      "url": "https://rootly.com/blog/we-pay-engineers-to-cut-our-infra-bill",
+      "author": "backlit4034",
+      "points": 23,
+      "num_comments": 10,
+      "created_at": "2026-07-01T05:02:07Z",
+      "created_at_i": 1782882127
+    },
+    {
+      "query": "robot",
+      "objectID": "48738449",
+      "title": "Cheaper Than Concrete: Robots and the New Stone Age",
+      "url": "https://originals.is/p/cheap-splendor-robots-and-the-new",
+      "author": "MediaSquirrel",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-30T20:02:29Z",
+      "created_at_i": 1782849749
+    },
+    {
+      "query": "robot",
+      "objectID": "48734627",
+      "title": "Improving Transparency and Assurance in the Web PKI",
+      "url": "https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/",
+      "author": "jruohonen",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-06-30T16:00:58Z",
+      "created_at_i": 1782835258
+    },
+    {
+      "query": "robot",
+      "objectID": "48733971",
+      "title": "Popping Root on Unifi OS: Unauthenticated RCE Chain Detection and Analysis",
+      "url": "https://bishopfox.com/blog/popping-root-on-unifi-os-server-unauthenticated-rce-chain-detection-analysis",
+      "author": "js2",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-30T15:19:21Z",
+      "created_at_i": 1782832761
+    },
+    {
+      "query": "robot",
+      "objectID": "48732917",
+      "title": "Show HN: Scorifya Controls, a self-hosted SoC 2 tool with RFC 3161 timestamps",
+      "url": "https://www.scorifya.com/controls",
+      "author": "cbmouton",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-06-30T14:04:58Z",
+      "created_at_i": 1782828298
+    },
+    {
+      "query": "robot",
+      "objectID": "48732489",
+      "title": "Api.weather.gov's robots.txt disallows all bots",
+      "url": "https://api.weather.gov/robots.txt",
+      "author": "mikeocool",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-30T13:28:24Z",
+      "created_at_i": 1782826104
+    },
+    {
+      "query": "robot",
+      "objectID": "48732387",
+      "title": "The Humanoid That Pays to Stand Still – Robotics",
+      "url": "https://atomsfrontier.substack.com/p/the-humanoid-that-pays-to-stand-still",
+      "author": "jpatel3",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-30T13:19:19Z",
+      "created_at_i": 1782825559
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48745355",
+      "title": "The Complicated Legacy of Eliot Noyes – National Endowment for the Humanities",
+      "url": "https://www.neh.gov/article/complicated-legacy-eliot-noyes",
+      "author": "rbanffy",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-07-01T12:03:49Z",
+      "created_at_i": 1782907429
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48731998",
+      "title": "China's humanoid robots captivated the world, a rental market shows their limits",
+      "url": "https://www.cnn.com/2026/06/30/tech/china-humanoid-robot-ai-rental-intl-hnk-dst",
+      "author": "breve",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-30T12:48:32Z",
+      "created_at_i": 1782823712
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48730635",
+      "title": "Show HN: GPTHumanizer – Free, unlimited AI humanizer for ChatGPT drafts",
+      "url": "https://www.gpthumanizer.ai/",
+      "author": "gigisss",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-30T10:19:46Z",
+      "created_at_i": 1782814786
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48728732",
+      "title": "Show HN: Vaghenu, a meter aware sloka-to-chant, TTS for Sanskrit",
+      "url": null,
+      "author": "init0",
+      "points": 10,
+      "num_comments": 2,
+      "created_at": "2026-06-30T05:15:41Z",
+      "created_at_i": 1782796541
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48727753",
+      "title": "'Humanity has chosen to become idiots': Brown professor discovers mass cheating",
+      "url": "https://fortune.com/2026/06/29/roberto-serrano-brown-university-massacre-ai-cheating/",
+      "author": "1vuio0pswjnm7",
+      "points": 16,
+      "num_comments": 1,
+      "created_at": "2026-06-30T02:07:09Z",
+      "created_at_i": 1782785229
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48726102",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "author": "jnord",
+      "points": 259,
+      "num_comments": 208,
+      "created_at": "2026-06-29T22:21:00Z",
+      "created_at_i": 1782771660
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48720635",
+      "title": "Open Source Software Is the Pastime of the Rich",
+      "url": "https://humancode.us/2024/09/18/open-source-pastime-for-rich",
+      "author": "jllyhill",
+      "points": 5,
+      "num_comments": 4,
+      "created_at": "2026-06-29T15:33:43Z",
+      "created_at_i": 1782747223
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48718608",
+      "title": "Are Humanoid Robots Ready to Be Deployed?",
+      "url": "https://www.newyorker.com/magazine/2026/07/06/are-humanoid-robots-ready-to-be-deployed",
+      "author": "littlexsparkee",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-06-29T12:50:01Z",
+      "created_at_i": 1782737401
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48718404",
+      "title": "Farming is Why Humanity is Fucked",
+      "url": "https://brennan.day/farming-is-why-humanity-is-fucked/",
+      "author": "surprisetalk",
+      "points": 3,
+      "num_comments": 1,
+      "created_at": "2026-06-29T12:30:23Z",
+      "created_at_i": 1782736223
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48718349",
+      "title": "The Humanoid That Runs Until Someone Steps In",
+      "url": "https://atomsfrontier.substack.com/p/the-humanoid-that-runs-until-someone",
+      "author": "jpatel3",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-29T12:24:13Z",
+      "created_at_i": 1782735853
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48707731",
+      "title": "Report on the State of Scholarship in the Humanities [pdf]",
+      "url": "https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/51/2026/06/State-of-Scholarship-Report-final.pdf",
+      "author": "loughnane",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-28T14:41:40Z",
+      "created_at_i": 1782657700
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48701615",
+      "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+      "url": null,
+      "author": "PhilipDaineko",
+      "points": 114,
+      "num_comments": 79,
+      "created_at": "2026-06-27T20:48:01Z",
+      "created_at_i": 1782593281
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48701319",
+      "title": "Recursive self improvement for human skills",
+      "url": null,
+      "author": "rando77",
+      "points": 4,
+      "num_comments": 3,
+      "created_at": "2026-06-27T20:14:20Z",
+      "created_at_i": 1782591260
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48694760",
+      "title": "Love Conquers Fear: Humanity, AI, and the Age of Abundance for All",
+      "url": "https://www.amazon.com/Love-Conquers-Fear-Humanity-Abundance-ebook/dp/B0GX32NPX5",
+      "author": "ilreb",
+      "points": 1,
+      "num_comments": 0,
+      "created_at": "2026-06-27T03:08:42Z",
+      "created_at_i": 1782529722
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48683544",
+      "title": "First hotel staffed by robots to open in 2027",
+      "url": "https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/",
+      "author": "dabinat",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-06-26T07:38:52Z",
+      "created_at_i": 1782459532
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48682709",
+      "title": "A Charter School Spent $500k on AI-Powered Humanoid Robots. Was It Worth It?",
+      "url": "https://voiceofsandiego.org/2026/06/24/a-charter-school-spent-500000-on-ai-powered-humanoid-robots-was-it-worth-it/",
+      "author": "the-mitr",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-26T05:35:10Z",
+      "created_at_i": 1782452110
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48678265",
+      "title": "Hours of Humanoid Teleop, Recorded in Real Homes",
+      "url": "https://topicqueue.substack.com/p/500-hours-of-humanoid-teleop-recorded",
+      "author": "DISCURSIVE",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-25T19:42:05Z",
+      "created_at_i": 1782416525
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48674194",
+      "title": "Atlas of Humanity",
+      "url": "https://www.atlasofhumanity.org",
+      "author": "okl",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-25T14:42:43Z",
+      "created_at_i": 1782398563
+    },
+    {
+      "query": "humanoid",
+      "objectID": "48672293",
+      "title": "A new report on the dangers of politicizing humanities in academia",
+      "url": "https://whyevolutionistrue.com/2026/06/08/a-new-report-on-the-dangers-of-politicizing-humanities-in-academia/",
+      "author": "olalonde",
+      "points": 4,
+      "num_comments": 0,
+      "created_at": "2026-06-25T12:19:41Z",
+      "created_at_i": 1782389981
+    },
+    {
+      "query": "robotics",
+      "objectID": "48731740",
+      "title": "Superintellignce is still decades away",
+      "url": null,
+      "author": "lamprouge",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-30T12:26:04Z",
+      "created_at_i": 1782822364
+    },
+    {
+      "query": "robotics",
+      "objectID": "48702366",
+      "title": "US Army used 35 drones and 100 lb of C4 to clear a breach",
+      "url": "https://www.businessinsider.com/us-army-commander-used-drones-c4-packed-robots-clear-breach-2026-6",
+      "author": "Lihh27",
+      "points": 6,
+      "num_comments": 1,
+      "created_at": "2026-06-27T22:25:11Z",
+      "created_at_i": 1782599111
+    },
+    {
+      "query": "robotics",
+      "objectID": "48699667",
+      "title": "Ask HN: How to meet and work with likeminded people on the Internet?",
+      "url": null,
+      "author": "sarmadgulzar",
+      "points": 4,
+      "num_comments": 1,
+      "created_at": "2026-06-27T16:38:13Z",
+      "created_at_i": 1782578293
+    },
+    {
+      "query": "robotics",
+      "objectID": "48697363",
+      "title": "India: Factory workers told to film themselves for AI/robot training",
+      "url": "https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
+      "author": "KellyCriterion",
+      "points": 3,
+      "num_comments": 0,
+      "created_at": "2026-06-27T11:37:50Z",
+      "created_at_i": 1782560270
+    },
+    {
+      "query": "robotics",
+      "objectID": "48687106",
+      "title": "The Excavator That Digs to a Line It Cannot See – Mobility and Field Robotics",
+      "url": "https://atomsfrontier.substack.com/p/the-excavator-that-digs-to-a-line",
+      "author": "jpatel3",
+      "points": 9,
+      "num_comments": 2,
+      "created_at": "2026-06-26T14:32:57Z",
+      "created_at_i": 1782484377
+    },
+    {
+      "query": "robotics",
+      "objectID": "48686976",
+      "title": "Intervention No. 1 \"Quantum\" performed by a cello that's played by two robots [video]",
+      "url": "https://www.youtube.com/watch?v=a0Ehoc65MF8",
+      "author": "speckx",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-26T14:23:17Z",
+      "created_at_i": 1782483797
+    },
+    {
+      "query": "robotics",
+      "objectID": "48676785",
+      "title": "Ask HN: What should I advise my son?",
+      "url": null,
+      "author": "pknerd",
+      "points": 4,
+      "num_comments": 6,
+      "created_at": "2026-06-25T17:37:54Z",
+      "created_at_i": 1782409074
+    },
+    {
+      "query": "robotics",
+      "objectID": "48672053",
+      "title": "The Boom That Sprays One Weed at a Time – Mobility and Field Robotics",
+      "url": "https://atomsfrontier.substack.com/p/the-boom-that-sprays-one-weed-at",
+      "author": "jpatel3",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-25T11:50:18Z",
+      "created_at_i": 1782388218
+    },
+    {
+      "query": "robotics",
+      "objectID": "48671899",
+      "title": "'Digit' maker Agility Robotics to go public in $2.5B deal",
+      "url": "https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/",
+      "author": "ripe",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-25T11:31:00Z",
+      "created_at_i": 1782387060
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembly using Vision-Language-Action models (VLAs). We formalize the task, develop a scalable simulation pipeline for expert data generation and evaluation, and build a VR teleoperation system for single-operator bimanual control to collect high-quality real-world demonstrations. To address extreme long-horizon assembly with up to 7 subtasks and 1550 control steps, we propose a progress-enhanced VLA, finetuned on semantically grounded subtasks, that jointly predicts actions and a continuous progress signal, enabling automatic subtask transitions and reducing compounding errors during inference. We further study perception and control design factors that critically affect precision in real-scale assembly. FurnitureVLA improves average simulation success from 48% to 80% compared to baselines across three furniture types, with an additional 21% gain from our design factor study. We validate on a real Kinova Gen3 platform with only 16% drop on the hardest task.",
+      "published": "2026-07-01T17:51:21Z",
+      "updated": "2026-07-01T17:51:21Z",
+      "html_url": "https://arxiv.org/abs/2607.01212v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01212v1",
+      "authors": [
+        "Chenyang Ma",
+        "Yue Yang",
+        "Radu Corcodel",
+        "Siddarth Jain",
+        "Andrew Wu",
+        "Chiori Hori",
+        "Diego Romeres"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01212v1"
+    },
+    {
+      "title": "GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of Nonlinear and Neural Network Dynamics",
+      "summary": "This paper studies real-time robust optimal control for uncertain nonlinear systems, where linear time-varying (LTV) approximations make planning tractable but require sound linearization error bounds (LEBs) to guarantee robust constraint satisfaction. We develop tight, differentiable, GPU-parallel LEBs for LTV approximations of nonlinear and neural network (NN) dynamics. For analytic dynamics, we introduce path-based Hessian bounds that are tighter than standard interval methods. For NN dynamics, we derive certified LEBs using NN verifier-generated affine relaxations and local Jacobian corrections. We adapt a GPU-parallel system-level synthesis LTV-based robust control solver to be compatible with these LEBs by extending it to handle right-invertible disturbance matrices and non-zero-centered disturbance sets for tight zonotopic uncertainty propagation. Our method, GPUSLS-LEO, enables online optimization of robust feedback policies that account for linearization error, producing tight, formally verified reachable tubes. On complex nonlinear and NN dynamics up to 168 state dimensions, our method can compute robust control policies on the GPU at rates up to 67 Hz, reducing solve times and conservativeness relative to baselines while preserving formal guarantees and real-time performance.",
+      "published": "2026-07-01T17:42:37Z",
+      "updated": "2026-07-01T17:42:37Z",
+      "html_url": "https://arxiv.org/abs/2607.01203v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01203v1",
+      "authors": [
+        "Jeffrey Fang",
+        "Keyi Shen",
+        "Anutam Srinivasan",
+        "Glen Chou"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01203v1"
+    },
+    {
+      "title": "Sensorless Four-Channel Control Architecture Using Inverse Dynamics Modeling for Human-Scale Bilateral Teleoperation",
+      "summary": "The four-channel teleoperation architecture is a well-established framework for achieving transparency in bilateral systems. However, its performance in human-scale teleoperation is limited by high inertia, modeling challenges, and reliance on noisy and costly force/torque sensors. This paper introduces a sensorless four-channel architecture based on inverse dynamics modeling. The controller is implemented and validated on a customized WAM bilateral teleoperation setup. Experiments demonstrate that the proposed approach outperforms conventional two- and four-channel schemes as well as transparency-enhancement methods, improving position and force tracking, reducing operator effort, and increasing maximum transmittable impedance without external sensors. A door-opening case study involving sustained whole-body contact along the manipulator further demonstrates the effectiveness of the method in realistic human-scale manipulation tasks.",
+      "published": "2026-07-01T17:37:48Z",
+      "updated": "2026-07-01T17:37:48Z",
+      "html_url": "https://arxiv.org/abs/2607.01201v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01201v1",
+      "authors": [
+        "Amir Noohian",
+        "Dylan Miller",
+        "Justin Valentine",
+        "Alan Lynch",
+        "Martin Jagersand"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01201v1"
+    },
+    {
+      "title": "FastBridge: Closing the Model-Based Realization Gap in Safety Filters on 3D Gaussian Splatting for Fast Quadrotor Flight",
+      "summary": "Fast quadrotor flight requires safe obstacle avoidance under tight onboard compute limits. While 3D Gaussian Splatting (3DGS) provides a continuous, geometry-aware scene representation for perception-driven navigation, existing 3DGS safety filters use reduced-order models such as single- and double-integrators that ignore actuator limits and assume commanded accelerations are realized instantaneously. Building on an analytic collision cone barrier for 3DGS, we introduce a nonlinear, actuator-aware safety filter enforced through the full quadrotor dynamics. We derive a high-relative-degree collision cone exponential CBF and a backup CBF that preserves QP feasibility under input constraints using a forward-simulated backup policy. Compared with a state-of-the-art 3DGS safety filter, our approach reduces trajectory jerk by 47% and runs 2.25 times faster. We validate the method in simulation and on hardware for real-time navigation in cluttered, perception-derived environments.",
+      "published": "2026-07-01T17:33:01Z",
+      "updated": "2026-07-01T17:33:01Z",
+      "html_url": "https://arxiv.org/abs/2607.01200v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01200v1",
+      "authors": [
+        "Tscholl Dario",
+        "Nakka Yashwanth Kumar",
+        "Gunter Brian"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01200v1"
+    },
+    {
+      "title": "Structured 4D Latent Predictive Model for Robot Planning",
+      "summary": "Video predictive models are emerging as a powerful paradigm in robotics, offering a promising path toward task generalization, long-horizon planning, and flexible decision-making. However, prevailing approaches often operate on 2D video sequences, inherently lacking the 3D geometric understanding necessary for precise spatial reasoning and physical consistency. We introduce a Structured 4D Latent Predictive Model, which predicts the evolution of a scene's 3D structure in a structured latent space conditioned on observations and textual instructions. Our representation encodes the scene holistically and can be decoded into diverse 3D formats, enabling a more complete and 3D consistent scene understanding. This structured 4D latent predictive model serves as a planner, generating future scenes that are translated into executable actions by a goal-conditioned inverse dynamics module. Experiments demonstrate that our model generates futures with strong visual quality, substantially better 3D consistency and multi-view coherence compared to state-of-the-art video-based planners. Consequently, our full planning pipeline achieves superior performance on complex manipulation tasks, exhibits robust generalization to novel visual conditions, and proves effective on real-world robotic platforms. Our website is available at https://structured-4d-model.github.io/.",
+      "published": "2026-07-01T16:52:49Z",
+      "updated": "2026-07-01T16:52:49Z",
+      "html_url": "https://arxiv.org/abs/2607.01166v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01166v1",
+      "authors": [
+        "Zhiyi Li",
+        "Peilin Wu",
+        "Xiaoshen Han",
+        "Ruojin Cai",
+        "Yilun Du"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01166v1"
+    },
+    {
+      "title": "Towards Metric-Agnostic Trajectory Forecasting",
+      "summary": "Accurate trajectory forecasting of surrounding traffic participants is a core capability for autonomous driving, enabling vehicles to anticipate behavior and plan safe maneuvers. We observe that current state-of-the-art forecasting models on Argoverse 2 and the Waymo Open Motion Dataset tailor their training objectives to the different benchmark metrics. Because these metrics encourage conflicting behavior, we propose a paradigm change for trajectory forecasting: training models with metric-agnostic probabilistic objectives and treating metric optimization as a downstream task applied to the predictive distribution. Concretely, we introduce Trajectory Distribution Evaluation (TraDiE) policies, metric-specific policies that map a predictive distribution to the set of $K$ trajectories and confidences required by trajectory forecasting metrics. We evaluate this framework by introducing DONUT-NLL, which adapts the training objective of the state-of-the-art trajectory forecasting model DONUT to directly optimize the predictive distribution. Using our policies, DONUT-NLL achieves state-of-the-art results on all metrics of the Waymo motion prediction benchmark.",
+      "published": "2026-07-01T16:20:43Z",
+      "updated": "2026-07-01T16:20:43Z",
+      "html_url": "https://arxiv.org/abs/2607.01133v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01133v1",
+      "authors": [
+        "Markus Knoche",
+        "Daan de Geus",
+        "Bastian Leibe"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01133v1"
+    },
+    {
+      "title": "FAR: Failure-Aware Retry for Test-Time Recovery and Continual Policy Improvement",
+      "summary": "Robot policies inevitably encounter failures when deployed in real environments. Naive retries often repeat the same mistakes, while many existing recovery methods rely on human intervention. In this paper, we propose Failure-Aware Retry (FAR), a framework that enables robots to learn from previous failures at test time, adapt their behavior accordingly, and eventually complete the task autonomously. FAR combines Failure-Contrastive Preference Adaptation, which constructs preference learning data from failures to steer the policy away from previously unsuccessful behaviors, with lightweight action perturbations during retries to encourage local exploration. We further incorporate successful recovery trajectories into a training loop for continual policy improvement. Experiments in both simulation and real-world manipulation tasks show that FAR substantially improves success rates and robustness, with average gains of 17.6% over the standard diffusion policy in simulation and 11.7% in the real world. In addition, FAR significantly improves data efficiency under both reset and timestep budgets during continual policy improvement by exploiting informative failure cases.",
+      "published": "2026-07-01T16:01:54Z",
+      "updated": "2026-07-01T16:01:54Z",
+      "html_url": "https://arxiv.org/abs/2607.01111v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01111v1",
+      "authors": [
+        "Haoran Hao",
+        "Shahram Najam Syed",
+        "Jeffrey Ichnowski",
+        "Jeff Schneider"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01111v1"
+    },
+    {
+      "title": "Technical Report: Asynchronous Distributed Trajectory Estimation of Multi-Robot Systems",
+      "summary": "Distributed trajectory estimation arises in many applications across robotics, but existing implementations typically do not consider asynchrony in agents' communications and computations. Therefore, we propose an asynchronous block coordinate descent algorithm for distributed trajectory estimation. We consider a team of agents that observes a team of robots and estimates their states over a sliding window. The agents solve an approximation of the maximum a posteriori estimation problem, which we derive. We show this approximation introduces negligible errors and eliminates up to 96.9% of communications among agents. Next, we prove that agents' iterates converge exponentially fast to the optimal estimate of the robots' states. Simulations show that this approach has up to 64% less error than a comparable state-of-the-art algorithm. Experiments on mobile robots show the robustness of this approach to delays whose lengths span three orders of magnitude.",
+      "published": "2026-07-01T15:57:28Z",
+      "updated": "2026-07-01T15:57:28Z",
+      "html_url": "https://arxiv.org/abs/2607.01106v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01106v1",
+      "authors": [
+        "Adam Pooley",
+        "Matthew Hale"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01106v1"
+    },
+    {
+      "title": "ROSA: A Robotics Foundation Model Serving System for Robot Factories",
+      "summary": "Robotics foundation models (RFMs) are making general-purpose robots increasingly practical for factory deployments. While RFM serving systems are central to this vision, existing systems are largely shaped by a single-robot, single-model assumption: inference is treated as an edge-computing problem handled by an on-robot or dedicated nearby GPU, and the serving objective is to minimize the latency of a single action model. In this paper, we propose ROSA, an RFM serving system for robot factories designed around three key principles. First, ROSA adopts shared GPU-pool serving, allowing a fleet of robots to access powerful server-class GPUs over the network in order to improve inference performance, battery duration, and GPU utilization. Second, ROSA provides a robotics-aware programming abstraction and system design that supports multi-model pipelines, per-task performance requirements, and failure handling. Third, ROSA uses factory-objective-driven scheduling to maximize SLO-qualified factory productivity rather than minimizing individual request latency. We implement ROSA on top of Ray Serve for distributed orchestration, with vLLM, PyTorch, and JAX as model-serving backends, and evaluate it on both real robots and synthetic large-scale workloads. The results show that ROSA improves factory productivity by up to 12.06x over conventional dedicated serving systems.",
+      "published": "2026-07-01T15:45:08Z",
+      "updated": "2026-07-01T15:45:08Z",
+      "html_url": "https://arxiv.org/abs/2607.01088v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01088v1",
+      "authors": [
+        "Wenqi Jiang",
+        "Jason Clemons",
+        "Rowland O'Flaherty",
+        "Hugo Hadfield",
+        "Alperen Degirmenci",
+        "Shuran Song",
+        "Yashraj Narang",
+        "Christos Kozyrakis"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01088v1"
+    },
+    {
+      "title": "Where Am I? Semantic Map Grounding via Vision-Language Models for Multi-Modal Localization",
+      "summary": "We address robot localization in GPS-denied indoor environments by reframing it as a semantic reasoning task rather than a geometric estimation problem. Motivated by how humans localize using object-level cues and labeled maps, we ask whether a vision-language model, given a front camera image, a polar LiDAR scan, and a top-down semantic grid map, can infer the robot pose. We fine-tune Qwen2.5-VL-7B with LoRA and attach a lightweight regression head that predicts continuous pose coordinates (x, y, theta) directly from the final hidden state, bypassing text generation. Training uses a composite position-and-direction loss with curriculum learning on a custom Gazebo dataset of 120,112 samples and 527 scenes. On the in-distribution test set of 18,017 samples, the model achieves 98.23 percent position accuracy, 98.00 percent direction accuracy, 96.75 percent full pose accuracy, a mean position error of 0.11 m, and a mean orientation error of 5.7 degrees at 0.62 s per sample. Position accuracy drops by only 7.2 percentage points on seven unseen object categories, reaching 90.99 percent, supporting semantic spatial reasoning rather than appearance memorization. With incomplete maps, fine-tuning recovers performance to 93.72 percent position accuracy, showing adaptability to stale or partial map information. Two ablations highlight cross-modal complementarity. Without LiDAR, using only camera and map inputs, position accuracy remains 95.06 percent, only 3.2 percentage points below the full system. However, when the camera sees no visible objects in a wall-facing view, LiDAR sustains 92.33 percent position accuracy, compared with 70.74 percent when neither LiDAR nor visible objects are available. This shows that LiDAR becomes the primary localization signal when camera semantics are unavailable and provides a reliable fallback under occlusion or sparse layouts.",
+      "published": "2026-07-01T15:37:29Z",
+      "updated": "2026-07-01T15:37:29Z",
+      "html_url": "https://arxiv.org/abs/2607.01079v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01079v1",
+      "authors": [
+        "Suraj Borate",
+        "Aarav Shah",
+        "Madhu Vadali"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01079v1"
+    },
+    {
+      "title": "Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation",
+      "summary": "As an essential modality for dexterous and contact-rich tasks, tactile sensing provides precise force feedback that cannot be reliably inferred from vision. However, limited by hardware and data collection systems, existing datasets with tactility remain small in scale and narrow in contact coverage. Meanwhile, Vision-Language-Action (VLA) models with tactile modality are constrained on dynamics-agnostic post-training, which limits the performance ceiling on downstream tasks. In this paper, we present H-Tac, a large-scale tactile-action dataset with 160-hour egocentric human videos containing more than 300 tasks and 135k episodes. Building upon this, we propose Transferable Tactile Pre-Training (TTP), a system of tactile-based pre-training on human data for fine-grained robotic tasks. To bridge the gap between humans and robots, we use unified tactile and action spaces throughout the pre-training and post-training phases, preserving prior knowledge during human-to-robot transfer. By leveraging a tactile expert for future tactile prediction, our framework explicitly models the contact dynamics and precise physical interactions. Extensive experiments in simulation and on real robots demonstrate that our model achieves superior performance, exhibiting robust generalization and fine-grained manipulation capabilities. TTP paves the way for scalable tactile pre-training via human-to-robot transfer.",
+      "published": "2026-07-01T15:26:26Z",
+      "updated": "2026-07-01T15:26:26Z",
+      "html_url": "https://arxiv.org/abs/2607.01067v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01067v1",
+      "authors": [
+        "Chi Zhang",
+        "Penglin Cai",
+        "Ziheng Xi",
+        "Haoqi Yuan",
+        "Hao Luo",
+        "Wanpeng Zhang",
+        "Sipeng Zheng",
+        "Chaoyi Xu",
+        "Zongqing Lu"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01067v1"
+    },
+    {
+      "title": "RoboWorld: Fast and Reliable Neural Simulators for Generalist Robot Policy Evaluation",
+      "summary": "Video world models are emerging as a scalable alternative for evaluating generalist robot policies, bypassing the physical constraints and engineering burdens of real-world deployment. However, evaluating policies with video world models remains challenging, as world-model errors can make generated rollouts unreliable and slow inference limits large-scale throughput. We introduce RoboWorld, an automated evaluation pipeline that pairs a fast autoregressive video world model with a task-progress-aware vision-language model scoring. To enable reliable long-horizon autoregressive world-model rollouts, we propose Step Forcing, which combines anchored and one-step self-forwarded contexts to reduce train--test mismatch while preserving action--observation dynamics. Together, these components enable RoboWorld to align strongly with real-world robot evaluation across tasks and environments, achieving Pearson's r = 0.989 and Spearman's \\r{ho} = 0.970.",
+      "published": "2026-07-01T15:22:41Z",
+      "updated": "2026-07-01T15:22:41Z",
+      "html_url": "https://arxiv.org/abs/2607.01060v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01060v1",
+      "authors": [
+        "Byeongguk Jeon",
+        "Seonghyeon Ye",
+        "JaeHyeok Doo",
+        "Sungdong Kim",
+        "Minjoon Seo",
+        "Hyungmok Son",
+        "Kimin Lee"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01060v1"
+    },
+    {
+      "title": "AutoSpeed: Annotation-Free Stage-Adaptive Motion Speed Learning for Robot Manipulation",
+      "summary": "Different stages of manipulation tasks exhibit varying levels of difficulty, suggesting stage-dependent motion speeds and temporal prediction horizons. However, existing IL-based visuomotor policies typically imitate the execution speed of expert demonstrations and operate with a fixed temporal prediction horizon, limiting flexibility and overall task throughput. In this paper, we introduce AutoSpeed, a model-agnostic learning framework that enables existing visuomotor policies to predict trajectories with stage-adaptive motion speeds, without requiring speed or stage annotations. We treat future trajectories at different speeds as candidate optimization targets, evaluate each candidate using a composite cost that trades off prediction error against prediction horizon, and optimize the policy toward the minimum-cost candidate. With a fixed-length action sequence, speed modulation adjusts the effective temporal prediction horizon: simple stages are executed faster with a longer prediction horizon, whereas complex stages are executed more slowly with a shorter prediction horizon. Specifically, we implement speed modulation in the frequency domain via the discrete cosine transform (DCT), which enables smooth, non-integer speed scaling and thus preserves motion continuity. Extensive evaluations show that AutoSpeed substantially reduces task execution time while also improving success rates. Under the AutoSpeed framework, the inferred motion speeds exhibit a strong correspondence with task stages.",
+      "published": "2026-07-01T15:13:12Z",
+      "updated": "2026-07-01T15:13:12Z",
+      "html_url": "https://arxiv.org/abs/2607.01051v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01051v1",
+      "authors": [
+        "Qingda Hu",
+        "Ziheng Qiu",
+        "Jieru Zhao",
+        "Zhongxue Gan",
+        "Wenchao Ding"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01051v1"
+    },
+    {
+      "title": "Robots Ask the Way: Communication-Enabled Social Navigation",
+      "summary": "Assistive autonomous robots operating in multi-agent environments require efficient strategies to locate specific individuals among multiple residents. Current social navigation methods focus on reactive collision avoidance and trajectory adaptation, but lack mechanisms to proactively gather information through human-robot communication.   We introduce Communication-enabled Social Navigation (CommNav). In this novel task, robotic agents actively seek assistance from residents to locate target individuals by requesting information about recent sightings, locations, and movements.   To evaluate CommNav, we extend Habitat 3.0 to create Habitat 3.0c, a communication-enabled variant supporting multi-human environments with information exchange protocols. Adding our communication module (COMM) to a state-of-the-art social navigation model yields a 10 percentage-point improvement in Episode Success. We further investigate the transition from structured data to natural language by evaluating models trained on LLM-generated instructions and on colloquial instructions collected from a human study.   Our experiments reveal that: (i) explicit human-robot communication substantially enhances multi-person navigation performance; (ii) pre-training COMM on a communication pretext task effectively addresses the challenge of occasional interaction signals; and (iii) the navigation policy is highly robust to natural, colloquial human language, achieving an episode success statistically similar to the model using perfect structured data.",
+      "published": "2026-07-01T15:07:40Z",
+      "updated": "2026-07-01T15:07:40Z",
+      "html_url": "https://arxiv.org/abs/2607.01044v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01044v1",
+      "authors": [
+        "Valentino Sacco",
+        "Luca Scofano",
+        "Indro Spinelli",
+        "Fabio Galasso"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01044v1"
+    },
+    {
+      "title": "DART-VLN: Test-Time Memory Decay and Anti-Loop Regularization for Discrete Vision-Language Navigation",
+      "summary": "Memory-based discrete vision-language navigation (VLN) agents must act under partial observability, yet even strong frozen backbones remain vulnerable at test time. Two common failure modes are stale historical evidence at memory readout and inefficient local backtracking during action selection. We present DART-VLN, a training-free test-time control framework for discrete VLN. DART-VLN combines Test-Time Memory Decay, a read-side memory reweighting rule that suppresses stale and redundant evidence without rewriting stored content, with Anti-Loop Regularization, a lightweight next-hop penalty that discourages immediate reversals during action selection. The framework introduces no new learnable parameters and leaves the learned backbone unchanged. Experiments on R2R and REVERIE show a consistent pattern: decay-only provides stable read-side gains, while decay+anti-loop achieves the best overall quality-efficiency trade-off, yielding shorter trajectories, lower runtime, and improved navigation performance in key settings. Behavioral analysis further confirms that anti-loop regularization reduces local backtracking and improves path efficiency under frozen backbones. Overall, the results show that modest test-time control can make memory-based discrete VLN more reliable and efficient without retraining.",
+      "published": "2026-07-01T15:07:07Z",
+      "updated": "2026-07-01T15:07:07Z",
+      "html_url": "https://arxiv.org/abs/2607.01043v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01043v1",
+      "authors": [
+        "Shaoheng Zhang",
+        "Zhichen Li",
+        "Jie Mei"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01043v1"
+    },
+    {
+      "title": "AMBUSH: Collaborative Capture in Complex Environments with Neural Acceleration",
+      "summary": "Collaborative capture of dynamic targets is common in nature as an essential strategy for weaker species against the strong. Similar concepts have shown to be useful for numerous robotic applications, such as security and surveillance, search and rescue. However, most existing works focus on analytical and geometric solutions or end-to-end reinforcement learning methods, which are largely constrained to obstacle-free environments or scenarios with sparse, regularly distributed obstacles. This work tackles the problem from a unique perspective: the renowned strategy of``ambush'' alone would suffice for multiple slower pursuers to capture one faster evader with different levels of intelligence efficiently in complex environments. A parameterized strategy of ambush (including discrete and continuous parameters) is designed first, which takes into account the topological properties of the workspace, the truncated line-of-sight visibility, the relative speed ratio and the limited capture range. Then, a Hybrid Monte Carlo Tree Search (H-MCTS) algorithm is proposed to optimize the associated parameters through long-term planning, enabling the identification of highly promising parameters for future capture. Lastly, the neural acceleration is trained offline to learn the ranking of different choices of parameters across various environments, and to directly predict scores, replacing the rollout process in H-MCTS. The neural acceleration is adopted during online H-MCTS to accelerate the planning procedure while guaranteeing the planning quality. Its efficiency and effectiveness are validated in extensive simulations and hardware experiments, against evaders with different capabilities and intelligence levels, including two-times higher velocity and human-controlled behavior.",
+      "published": "2026-07-01T14:59:28Z",
+      "updated": "2026-07-01T14:59:28Z",
+      "html_url": "https://arxiv.org/abs/2607.01029v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01029v1",
+      "authors": [
+        "Junfeng Chen",
+        "YinHang Luo",
+        "Xinyi Wang",
+        "Junrui Li",
+        "Meng Guo"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01029v1"
+    },
+    {
+      "title": "Image-Domain Tilt Constrained Distributed Fusion for Maneuvering UAV Tracking with Multi-Camera Electro-Optical Observations",
+      "summary": "Short-horizon prediction is essential for electro-optical UAV tracking, especially when the target is small, maneuvering, or intermittently observed. Image center, line-of-sight, and range measurements provide direct constraints on target position, but their constraints on acceleration are weak. As a result, prediction can lag during aggressive maneuvers.   This paper proposes an image-domain tilt constrained distributed fusion method for maneuvering UAV tracking. The method uses the apparent roll and pitch of a rotorcraft target in the image as low-level maneuver cues. A weak-prior auto-labeling pipeline first generates oriented bounding box and image-domain tilt labels from synchronized video, gimbal IMU, and UAV IMU data. A YOLO-OBB detector is then trained to provide online target position and tilt measurements. The front-end Python implementation is publicly available at github.com/ShineMinxing/PythonYOLO.   In the fusion stage, the UAV state is modeled by position, velocity, and acceleration. Image-domain roll and pitch are introduced as acceleration-related pseudo-observations. For distributed tracking, one mobile gimbal camera and two fixed ground cameras are fused asynchronously. Camera attitude error states are augmented into the filter to absorb extrinsic drift and cross-camera systematic inconsistency. A Mahalanobis gate with time-since-last-valid covariance widening is used to reject false detections and handle dropouts.   In simulation, adding roll/pitch observations reduces the prediction RMSE from 1.991 m to 0.821 m and decreases the cumulative prediction error by 60.75\\%. In real distributed experiments, a self-consistency evaluation shows an 18.10\\% reduction in cumulative prediction error. The results show that image-domain tilt can provide useful acceleration constraints for robust short-horizon UAV prediction.",
+      "published": "2026-07-01T14:45:43Z",
+      "updated": "2026-07-01T14:45:43Z",
+      "html_url": "https://arxiv.org/abs/2607.01008v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.01008v1",
+      "authors": [
+        "Minxing Sun",
+        "Yao Mao"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.01008v1"
+    },
+    {
+      "title": "Privacy-Preserving Depth-Only Open-Vocabulary 3D Semantic Segmentation Via Uncertainty-Guided Test-Time Optimization",
+      "summary": "Privacy-preserving perception is a critical requirement for deploying 3D scene understanding systems in real-world indoor environments, yet it remains underexplored in open-vocabulary 3D semantic segmentation. Existing methods typically rely on obtaining rich semantic cues from RGB images, which may expose privacy-sensitive visual information. Depth-only 3D geometry provides a privacy-preserving alternative, but the absence of appearance-based semantic cues makes open-vocabulary predictions highly uncertain and less reliable. Under this setting, we propose to convert uncertainty into a guidance signal to identify unreliable semantic responses and use semantic priors from foundation models to regularize their refinement. We present UTTO, an uncertainty-guided test-time optimization framework for depth-only open-vocabulary 3D semantic segmentation. Without additional training, experiments on ScanNet20, ScanNet40, and ScanNet200 demonstrate that UTTO consistently improves depth-only open-vocabulary 3D segmentation and outperforms representative baselines under privacy-preserving conditions.",
+      "published": "2026-07-01T14:12:21Z",
+      "updated": "2026-07-01T14:12:21Z",
+      "html_url": "https://arxiv.org/abs/2607.00978v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.00978v1",
+      "authors": [
+        "Xuying Huang",
+        "Sicong Pan",
+        "Maren Bennewitz"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.00978v1"
+    },
+    {
+      "title": "Beyond Line of Sight: Hybrid Validation of V2X Collective Perception in Complex Scenarios",
+      "summary": "This paper introduces a probabilistic framework and hybrid validation methodology for V2X-enabled Collective Perception (CP) in complex traffic scenarios. The proposed Bayesian fusion algorithm extends the perceptual horizon of connected and autonomous vehicles by integrating heterogeneous sensor observations from multiple agents into a shared probabilistic occupancy grid. Each cell of this grid encapsulates both occupancy likelihood and uncertainty, enabling explainable and trustworthy situational awareness beyond the ego vehicle's field of view. To bridge the gap between simulation and real-world evaluation, a hybrid testing framework is developed, combining CARLA-based virtual environments with vehicle-in-the-loop experimentation. Experimental results in a roundabout scenario demonstrate a 260 percent increase in field-of-view coverage and a rise in occupied-cell recall from 0.82 (ego-only) to 0.94 (six-agent CP) under nominal localization conditions. Overall, the proposed approach provides a reproducible and interpretable foundation for validating CP systems, supporting the safe and certifiable deployment of cooperative autonomous vehicles.",
+      "published": "2026-07-01T12:38:01Z",
+      "updated": "2026-07-01T12:38:01Z",
+      "html_url": "https://arxiv.org/abs/2607.00874v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.00874v1",
+      "authors": [
+        "Markos Antonopoulos",
+        "Anastasia Bolovinou",
+        "Bill Roungas",
+        "Elena Daskalaki",
+        "Angelos Amditis"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.00874v1"
+    },
+    {
+      "title": "From World Models to World Action Models: A Concise Tutorial for Robotics",
+      "summary": "World models are increasingly used in embodied intelligence and generative simulation, yet their scope remains ambiguous across communities. This tutorial presents a design-space view of world models as action-conditioned predictive models that estimate the future evolution of task-relevant observations or states. We categorize existing methods into observation-space and state-space world models, comparing their trade-offs in visual fidelity, spatial structure, physical interpretability, and control usability. We further introduce world action models, which connect predicted futures with executable robot actions, and summarize four representative paradigms: imagine-then-execute, video-feature-conditioned action prediction, joint video-action modeling, and auxiliary video prediction for policy learning. The goal of this tutorial is to clarify the conceptual scope of world (action) models and provide a structured taxonomy for embodied prediction and control.",
+      "published": "2026-07-01T11:56:54Z",
+      "updated": "2026-07-01T11:56:54Z",
+      "html_url": "https://arxiv.org/abs/2607.00836v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.00836v1",
+      "authors": [
+        "Xiaoxiong Zhang",
+        "Xiong Zeng",
+        "Wei Zhang"
+      ],
+      "arxiv_id": "http://arxiv.org/abs/2607.00836v1"
+    }
+  ],
+  "timestamp": "2026-07-02T17:16:40.741146"
+}

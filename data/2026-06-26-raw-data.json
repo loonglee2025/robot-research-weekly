@@ -1,0 +1,520 @@
+{
+  "date": "2026-06-26",
+  "timestamp": "2026-06-26T10:33:00",
+  "github_projects": [
+    {
+      "keyword": "humanoid robot",
+      "name": "jeggachakravarthy1111-cell/HUMANOID_HAND",
+      "url": "https://github.com/jeggachakravarthy1111-cell/HUMANOID_HAND",
+      "description": "Real-time vision-controlled robotic hand. MediaPipe tracks human hand movement, Python computes joint angles, and an Arduino Mega + PCA9685 drives the servos to mirror it.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T11:00:24Z",
+      "created_at": "2026-06-24T10:58:43Z",
+      "forks": 0,
+      "open_issues": 1
+    },
+    {
+      "keyword": "humanoid robot",
+      "name": "SEMHAQ/MS-WM",
+      "url": "https://github.com/SEMHAQ/MS-WM",
+      "description": "SSM-based world model for embodied intelligence and humanoid robot state prediction. Targeting CTA journal special issue.",
+      "stars": 1,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:53:18Z",
+      "created_at": "2026-06-02T06:32:12Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "humanoid robot",
+      "name": "cemalhekim/humanoid-robot-gui",
+      "url": "https://github.com/cemalhekim/humanoid-robot-gui",
+      "description": null,
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:49:52Z",
+      "created_at": "2026-05-18T15:21:25Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "humanoid robot",
+      "name": "vergilshawn/Awesome-Humanoid-Robot-Learning",
+      "url": "https://github.com/vergilshawn/Awesome-Humanoid-Robot-Learning",
+      "description": "The goal is to efficiently discover highly relevant humanoid robot learning papers without manually browsing arXiv every day.",
+      "stars": 0,
+      "language": null,
+      "updated_at": "2026-06-26T10:49:52Z",
+      "created_at": "2026-05-18T15:21:25Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "ros2",
+      "name": "liiiiiihero/ros2_ws",
+      "url": "https://github.com/liiiiiihero/ros2_ws",
+      "description": null,
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T11:01:04Z",
+      "created_at": "2026-06-24T03:09:59Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "ros2",
+      "name": "2lian/asyncio-for-robotics",
+      "url": "https://github.com/2lian/asyncio-for-robotics",
+      "description": "Asyncio interface for ROS 2, Zenoh, and other robotics IO systems.",
+      "stars": 28,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:58:52Z",
+      "created_at": "2025-10-03T10:58:57Z",
+      "forks": 2,
+      "open_issues": 1
+    },
+    {
+      "keyword": "ros2",
+      "name": "robmog06/rescue_robot_ros2_nav2_bt",
+      "url": "https://github.com/robmog06/rescue_robot_ros2_nav2_bt",
+      "description": "proyecto robotica",
+      "stars": 0,
+      "language": "C++",
+      "updated_at": "2026-06-26T10:58:12Z",
+      "created_at": "2026-06-26T10:55:31Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "ros2",
+      "name": "jaysonthomas/optimal_control",
+      "url": "https://github.com/jaysonthomas/optimal_control",
+      "description": "Control of different plants within the ros2 framework.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:58:12Z",
+      "created_at": "2026-04-14T15:49:43Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "embodied ai",
+      "name": "ZhuYun97/embodied-ai-learning",
+      "url": "https://github.com/ZhuYun97/embodied-ai-learning",
+      "description": "具身智能学习站 · VLA 模型发展深度调研 + 12 篇论文细读(VitePress + Mermaid)",
+      "stars": 10,
+      "language": "JavaScript",
+      "updated_at": "2026-06-26T10:13:56Z",
+      "created_at": "2026-05-30T08:49:55Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "embodied ai",
+      "name": "nanyijiang-collab/embodied-aicompany-dashboard",
+      "url": "https://github.com/nanyijiang-collab/embodied-aicompany-dashboard",
+      "description": null,
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:13:44Z",
+      "created_at": "2026-04-23T02:39:49Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "embodied ai",
+      "name": "tavon-ai/proteos",
+      "url": "https://github.com/tavon-ai/proteos",
+      "description": "ProteOS — derived from Proteus, the Greek sea god of shape-shifting, wisdom, and prophecy. Just as Proteus could transform into any form, ProteOS adapts seamlessly between multiple AI providers, embodying flexibility and intelligence while maintaining Docker's oceanic heritage.",
+      "stars": 0,
+      "language": "Go",
+      "updated_at": "2026-06-26T10:09:31Z",
+      "created_at": "2026-06-10T10:46:49Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "embodied ai",
+      "name": "hesterzxy/embodied-ai-tracker",
+      "url": "https://github.com/hesterzxy/embodied-ai-tracker",
+      "description": null,
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:13:44Z",
+      "created_at": "2026-06-10T10:46:49Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot manipulation",
+      "name": "arjun-2612/isaac-circus",
+      "url": "https://github.com/arjun-2612/isaac-circus",
+      "description": "A collection of robots trained with IsaacLab that perform a variety of tasks, including locomotion, multimodal navigation, manipulation, and locomanipulation.",
+      "stars": 1,
+      "language": "Jupyter Notebook",
+      "updated_at": "2026-06-26T10:59:33Z",
+      "created_at": "2026-06-01T15:43:51Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot manipulation",
+      "name": "Lauraineabsurd944/Light-WAM",
+      "url": "https://github.com/Lauraineabsurd944/Light-WAM",
+      "description": "Train lightweight world action models for robot manipulation using state-fusion decoding and frozen video backbones on LIBERO and RoboTwin2.0.",
+      "stars": 1,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:08:53Z",
+      "created_at": "2026-06-15T05:22:22Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot manipulation",
+      "name": "rightofactionsyndicalism110/DOMINO",
+      "url": "https://github.com/rightofactionsyndicalism110/DOMINO",
+      "description": "Advance generalizable robotic manipulation in dynamic environments with the DOMINO dataset, model, and research code",
+      "stars": 1,
+      "language": "Python",
+      "updated_at": "2026-06-26T09:45:12Z",
+      "created_at": "2026-04-01T12:30:25Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot manipulation",
+      "name": "Brooks207/robot-manipulation-annotation",
+      "url": "https://github.com/Brooks207/robot-manipulation-annotation",
+      "description": "Config-driven visual annotation pipeline (SAM3 masks + Depth-Anything-3 metric depth) for LeRobot v3 robot manipulation data; reproducible on public Hugging Face data.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:44:50Z",
+      "created_at": "2026-05-16T10:59:28Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "quadruped robot",
+      "name": "GV-ing/SpiderBot",
+      "url": "https://github.com/GV-ing/SpiderBot",
+      "description": "A 12-DOF Quadrupedal Robot Daniele Palomba & Giulio Vestri — Final Project for Advanced Robotics, University of Naples Federico II.",
+      "stars": 1,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:05:31Z",
+      "created_at": "2026-06-25T21:33:58Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "quadruped robot",
+      "name": "PrageethM1702/HRNSQ---Hybrid_Robotic_Nervous_System_for_Quadrupeds-",
+      "url": "https://github.com/PrageethM1702/HRNSQ---Hybrid_Robotic_Nervous_System_for_Quadrupeds-",
+      "description": "Implementation of a Hybrid Robotic Nervous System combining low-level reflex circuits and high-level AI cognition to study adaptive locomotion in quadruped robots.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:00:22Z",
+      "created_at": "2025-12-25T05:30:25Z",
+      "forks": 0,
+      "open_issues": 2
+    },
+    {
+      "keyword": "quadruped robot",
+      "name": "speakeridentificationmaisonette158/QuadRupedDog",
+      "url": "https://github.com/speakeridentificationmaisonette158/QuadRupedDog",
+      "description": "Build a quadruped robot using a three-node system for precise servo control, real-time gait planning, and integrated vision processing.",
+      "stars": 1,
+      "language": "Python",
+      "updated_at": "2026-06-26T09:43:49Z",
+      "created_at": "2026-03-28T20:38:21Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "bipedal walking",
+      "name": "TodorKDemirov/RL-Bipedal-Walker",
+      "url": "https://github.com/TodorKDemirov/RL-Bipedal-Walker",
+      "description": "This project simulates walking robot that uses reinforcement learning",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:32:04Z",
+      "created_at": "2026-06-19T16:22:58Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "bipedal walking",
+      "name": "ekorudiawan/ZMP-Preview-Control-WPG",
+      "url": "https://github.com/ekorudiawan/ZMP-Preview-Control-WPG",
+      "description": "ZMP Preview Control Walking Pattern Generation for Biped Humanoid Robot",
+      "stars": 51,
+      "language": "Python",
+      "updated_at": "2026-06-26T07:57:43Z",
+      "created_at": "2019-09-06T08:55:04Z",
+      "forks": 9,
+      "open_issues": 0
+    },
+    {
+      "keyword": "bipedal walking",
+      "name": "OsamaIM/-Proposed-Humanoid-Robot",
+      "url": "https://github.com/OsamaIM/-Proposed-Humanoid-Robot",
+      "description": "A low-cost 16-DoF humanoid robot platform for STEM education, featuring ESP32-based control, Wi-Fi connectivity, 3D-printed PLA construction, and full bipedal walking capability. Designed for resource-constrained classrooms.",
+      "stars": 0,
+      "language": "C++",
+      "updated_at": "2026-06-25T14:34:32Z",
+      "created_at": "2026-06-25T13:43:08Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "bipedal walking",
+      "name": "Peterex08/Alice",
+      "url": "https://github.com/Peterex08/Alice",
+      "description": "Repository created to develop humanoid biped walking for prismatic joint adult size robot.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:44:50Z",
+      "created_at": "2026-05-16T10:59:28Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot arm",
+      "name": "NHK-DOT/delta_on_quadrotorUAV",
+      "url": "https://github.com/NHK-DOT/delta_on_quadrotorUAV",
+      "description": "This project integrates a UAV with a Delta parallel robot. The arm features a Delta manipulator with an IMU on the end-effector. A base-mounted camera detects the AprilTag on the IMU for real-time visual feedback.",
+      "stars": 4,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:58:58Z",
+      "created_at": "2026-04-21T09:33:51Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot arm",
+      "name": "ClachDev/Mote",
+      "url": "https://github.com/ClachDev/Mote",
+      "description": "Low-cost differential-drive robot combining the Physical AI pipeline of LeKiwi with ROS/Nav2 navigation on a Turtlebot 3-compatible base. Circular footprint, ORP-standard chassis, SO-101 arm compatible. A comparison platform for classical navigation vs. learned robot policies.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:50:20Z",
+      "created_at": "2026-04-14T15:49:43Z",
+      "forks": 0,
+      "open_issues": 5
+    },
+    {
+      "keyword": "robot arm",
+      "name": "a-amansharma/robotic-arm",
+      "url": "https://github.com/a-amansharma/robotic-arm",
+      "description": "This project features a 6-DOF robotic arm controlled using a master-slave mechanism. The master unit uses six potentiometers to capture joint movements, which are then replicated by the robotic arm in real time for precise and intuitive control.",
+      "stars": 0,
+      "language": "C++",
+      "updated_at": "2026-06-26T10:44:50Z",
+      "created_at": "2026-05-16T10:59:28Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "robot arm",
+      "name": "yanyuze1/Piper_vision_grasp",
+      "url": "https://github.com/yanyuze1/Piper_vision_grasp",
+      "description": "This is a visual grasping repository for the Agilex Piper robotic arm, featuring two implementation methods: OBB pose estimation and GraspNet pose estimation.",
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:44:50Z",
+      "created_at": "2026-05-16T10:59:28Z",
+      "forks": 0,
+      "open_issues": 0
+    },
+    {
+      "keyword": "lerobot",
+      "name": "alpibrusl/lex-robot",
+      "url": "https://github.com/alpibrusl/lex-robot",
+      "description": "Effect-typed, capability-bounded control layer over LeRobot (design-stage)",
+      "stars": 0,
+      "language": "Lex",
+      "updated_at": "2026-06-26T11:02:09Z",
+      "created_at": "2026-06-13T05:40:58Z",
+      "forks": 0,
+      "open_issues": 4
+    },
+    {
+      "keyword": "lerobot",
+      "name": "strands-labs/robots",
+      "url": "https://github.com/strands-labs/robots",
+      "description": "Control robots and physical hardware with natural language through Strands Agents.",
+      "stars": 75,
+      "language": "Python",
+      "updated_at": "2026-06-26T11:00:52Z",
+      "created_at": "2026-02-19T19:42:45Z",
+      "forks": 22,
+      "open_issues": 11
+    },
+    {
+      "keyword": "lerobot",
+      "name": "Mohit-devani/LeRobot",
+      "url": "https://github.com/Mohit-devani/LeRobot",
+      "description": null,
+      "stars": 0,
+      "language": "Python",
+      "updated_at": "2026-06-26T10:59:56Z",
+      "created_at": "2026-06-18T06:56:17Z",
+      "forks": 0,
+      "open_issues": 0
+    }
+  ],
+  "hacker_news_topics": [
+    {
+      "title": "First hotel staffed by robots to open in 2027",
+      "url": "https://newatlas.com/ai-humanoids/luxury-hotel-staffed-robots-shenzhong/",
+      "author": "dabinat",
+      "points": 1,
+      "num_comments": 1,
+      "created_at": "2026-06-26T07:38:52Z",
+      "story_id": 48683544
+    },
+    {
+      "title": "A Charter School Spent $500k on AI-Powered Humanoid Robots. Was It Worth It?",
+      "url": "https://voiceofsandiego.org/2026/06/24/a-charter-school-spent-500000-on-ai-powered-humanoid-robots-was-it-worth-it/",
+      "author": "the-mitr",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-26T05:35:10Z",
+      "story_id": 48682709
+    },
+    {
+      "title": "Talking robot heads and one human with a tinfoil helmet [video]",
+      "url": "https://www.youtube.com/watch?v=aicfLYrRuUw",
+      "author": "deadprogram",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-25T13:48:26Z",
+      "story_id": 48673362
+    },
+    {
+      "title": "The Boom That Sprays One Weed at a Time – Mobility and Field Robotics",
+      "url": "https://atomsfrontier.substack.com/p/the-boom-that-sprays-one-weed-at",
+      "author": "jpatel3",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-25T11:50:18Z",
+      "story_id": 48672053
+    },
+    {
+      "title": "'Digit' maker Agility Robotics to go public in $2.5B deal",
+      "url": "https://www.geekwire.com/2026/digit-maker-agility-robotics-to-go-public-in-2-5b-deal-heres-what-the-filings-say-about-its-finances/",
+      "author": "ripe",
+      "points": 2,
+      "num_comments": 0,
+      "created_at": "2026-06-25T11:31:00Z",
+      "story_id": 48671899
+    },
+    {
+      "title": "The reason China is building most of the robots",
+      "url": "https://www.ft.com/content/c8731833-10ca-4a12-bfe4-8ebb2584ec68",
+      "author": "mmarian",
+      "points": 2,
+      "num_comments": 1,
+      "created_at": "2026-06-25T10:20:10Z",
+      "story_id": 48671393
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Scalable Behavior Cloning with Open Data, Training, and Evaluation",
+      "authors": "Arthur Allshire, Himanshu Gaurav Singh, Ritvik Singh, Adam Rashid, Hongsuk Choi, David McAllister, Justin Yu, Yiyuan Chen, Huang Huang, Pieter Abbeel, Xi Chen, Rocky Duan, Phillip Isola, Jitendra Malik, Fred Shentu, Guanya Shi, Philipp Wu, Angjoo Kanazawa",
+      "url": "https://arxiv.org/abs/2606.27375v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27375v1",
+      "published": "2026-06-25T17:59:57Z",
+      "summary": "We introduce ABC, a fully open-source stack for manipulation with behavior cloning. At its core is ABC-130K: the largest open-source teleoperation dataset to date, featuring 3,500 hours of data spanning over 130K episodes across 195 diverse tasks. Furthermore, we open-source our accessible hardware setup, training infrastructure, and simulation pipeline. We also release 400 hours of sim-teleop data and provide a co-training recipe that produces correlated simulation and real-world evaluation, offering a reliable proxy for ablating model-design and training decisions before costly real-world evaluation. We explore various training recipes and compare common architectural choices for Diffusion Transformers (DiT) and Vision-Language-Action (VLA) models, grounding our findings in real-world evaluations. The resulting policies successfully execute dexterous tasks such as box folding and extracting credit cards from wallets. By providing a reproducible toolkit, we aim to place researchers on an equal footing, establishing the necessary foundation to learn the ABCs of Behavior Cloning together as a community."
+    },
+    {
+      "title": "World Action Models Enable Continual Imitation Learning with Recurrent Generative Replays",
+      "authors": "Manish Kumar Govind, Dominick Reilly, Smit Patel, Hieu Le, Srijan Das",
+      "url": "https://arxiv.org/abs/2606.27374v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27374v1",
+      "published": "2026-06-25T17:59:56Z",
+      "summary": "Going beyond predicting robot actions, World Action Models (WAMs) can also generate future visual observations. We build on this generative capability to propose Recurrent Generative Replay (REGEN), a continual imitation learning framework that synthesizes pseudo-replay trajectories, enabling a robot policy to rehearse previously learned tasks without storing their original human demonstrations. During continual adaptation, REGEN recursively queries the WAM to synthesize pseudo-replay trajectories conditioned only on prior task instructions and current-task observations. Experiments in both simulation and real-world manipulation settings show that REGEN reduces catastrophic forgetting by up to 50% relative to sequential fine-tuning, while approaching the performance of privileged experience replay methods that require access to real replay data. Finally, we analyze the factors limiting generated replay, identifying long-horizon visual degradation and action-observation inconsistency as the primary bottlenecks. Our results establish WAMs as a promising foundation for continual robot learning without stored demonstrations."
+    },
+    {
+      "title": "RouterVLA: Turning Smoke Tests into Supervision for Heterogeneous VLA Selection",
+      "authors": "Xingyu Ren, Chugang Yi, Ge Ma, Youran Sun",
+      "url": "https://arxiv.org/abs/2606.27355v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27355v1",
+      "published": "2026-06-25T17:56:33Z",
+      "summary": "We study whether pre-deployment evaluation rollouts can be reused to supervise policy selection. Robot teams routinely smoke test candidate vision-language-action (VLA) policies, then compress those trials into a global winner. RouterVLA evaluates this idea with outcome-disjoint cross-fitting: recorded probes build a profile for each frozen expert, and a separate trial scores the selected expert without entering its profile. Across 34,752 LIBERO-Plus rollout records, a transparent probe-success rule raises held-out success from 0.4686 to 0.6149, a +14.64pp gain. Under the scalar-only profiles studied here, learned scorers are statistically indistinguishable from this rule, showing that commissioning carries the routing value while extra scalar scorer capacity does not create it. Reusing the scored trial inflates the measured gain by 1.87x, so credible ledger routing needs outcome separation; model scaling improves individual policies, while commissioning-aware routing improves the system built from them."
+    },
+    {
+      "title": "Continual Robot Policy Learning via Variational Neural Dynamics",
+      "authors": "Jiaxu Xing, Zhiyuan Zhu, Yunfan Ren, Ismail Geles, Yifan Zhai, Rudolf Reiter, Davide Scaramuzza",
+      "url": "https://arxiv.org/abs/2606.27353v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27353v1",
+      "published": "2026-06-25T17:56:04Z",
+      "summary": "Robots deployed in the real world rarely operate under a single fixed dynamics model: wind changes, payloads vary, batteries drain, contacts shift, and hardware wears. Yet most learning-based controllers are trained once and deployed as if learning were complete. This prevents the robot from using deployment experience to further improve task performance. In this work, we propose a continual learning framework that uses real-world experience to improve robot policies under hidden and recurring dynamics. Our method learns a condition-aware dynamics model from real state-action trajectories by combining an analytical physics prior with a neural residual for unmodeled effects. A recurrent encoder infers the current hidden condition from recent interaction, and this estimate conditions both the residual model and the policy. Policy learning is performed via differentiable simulation using diverse learned dynamics sampled from the latent model. At deployment, these sampled conditions are replaced by conditions inferred online from recent real interaction, allowing the policy to recover recurring dynamics by recognition rather than residual re-fitting. Through extensive simulation studies and real-world experiments, we demonstrate that the framework improves policy performance under diverse unobserved disturbances. On real quadrotor trajectory tracking under changing wind, the policy recovers from recurring disturbances in roughly 1s, about 5x faster than online residual re-fitting. It also reduces large-disturbance hover and tracking errors by 65.7% and 53.3% over the state-of-the-art online adaptation approaches"
+    },
+    {
+      "title": "Bridging Performance and Generalization in Reinforcement Learning for Agile Flight",
+      "authors": "Jonathan Green, Jiaxu Xing, Nico Messikommer, Angel Romero, Davide Scaramuzza",
+      "url": "https://arxiv.org/abs/2606.27348v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27348v1",
+      "published": "2026-06-25T17:54:36Z",
+      "summary": "Autonomous drone racing is a fundamentally challenging regime for autonomous aerial robots, requiring time-optimal control while operating under persistent actuation saturation. While reinforcement learning (RL) has achieved human-level performance in this domain, current methods fail to generalize; policies trained on specific environments often crash immediately in unseen configurations. This failure reflects the intrinsic difficulty of zero-shot generalization in agile flight, arising from high-dimensional task variation and the tight coupling between safety and performance at high speeds. Existing approaches that improve generalization impose a substantial cost on flight speed: control policies must significantly degrade performance to achieve even modest levels of generalization. In this work, we propose a framework for zero-shot generalization in agile flight for RL-based drone racing. By combining task-aware switching based on learning progress with a physically informed procedural track generator, the framework produces a fast and robust generalist policy without test-time adaptation. Our method achieves strong zero-shot performance across a wide range of unseen racetracks in the real world, demonstrating a 7.4x improvement in generalization over the state-of-the-art approaches, while maintaining competitive racing speeds. We validate our method's results in both simulation and real-world settings, including a challenging vision-based, end-to-end control setting that operates without explicit state estimation, where all prior approaches fail to generalize."
+    },
+    {
+      "title": "VibeAct: Vibration to Actions for Contact-Rich Reactive Robot Dexterity",
+      "authors": "Yuemin Mao, Uksang Yoo, Jean Oh, Jonathan Francis, Jeffrey Ichnowski",
+      "url": "https://arxiv.org/abs/2606.27344v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27344v1",
+      "published": "2026-06-25T17:50:07Z",
+      "summary": "Dexterous manipulation depends on contact events that are fast, local, and often visually occluded. Piezoelectric microphones offer a compact and high-bandwidth way to sense these interactions, but the resulting vibro-acoustic signals are difficult to simulate faithfully enough for end-to-end sim-to-real policy learning on dexterous robot hands. We propose VibeAct, a framework that bridges real vibrotactile sensing and simulation-based reinforcement learning through a shared physical representation of contact and slip. In the real world, we embed piezoelectric microphones into a dexterous robot hand and collect vibro-acoustic data through teleoperation, then replay the recordings in a calibrated digital clone to automatically label per-finger contact and slip. A tactile estimator learns to predict contact and slip from real microphone waveforms, while manipulation policies are trained in simulation on the same representation computed directly from simulated contacts. This decoupling lets policies exploit rapid tactile feedback without simulating raw audio. Across five contact-rich tasks spanning regrasping, in-hand reorientation, and insertion, VibeAct consistently outperforms a proprioception-and-point-cloud baseline in simulation, with the largest gains on tasks requiring sustained reactive control, where the continuous slip-magnitude channel proves the most informative observation. The learned policies transfer to a physical dexterous hand-arm platform, improving success rates on deployed tasks. Project videos and additional details are at https://vibeact.github.io/."
+    },
+    {
+      "title": "Hallucination in World Models is Predictable and Preventable",
+      "authors": "Nicklas Hansen, Xiaolong Wang",
+      "url": "https://arxiv.org/abs/2606.27326v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27326v1",
+      "published": "2026-06-25T17:38:45Z",
+      "summary": "Modern generative world models render increasingly realistic action-controllable futures, yet they frequently hallucinate: rollouts remain visually fluent while drifting from the ground-truth dynamics. We hypothesize that hallucination concentrates in low-coverage regions of the state-action space, where lightweight data-centric signals can both detect it and guide mitigation. To test this, we introduce MMBench2, a 427-hour, 210-task dataset for visual world modeling with ground-truth actions, rewards, and live simulators, and train a 350M-parameter world model on it. We identify three distinct hallucination modes: perceptual, action-marginalized, and scene-diverging -- each anchored to a different stage of the pipeline, and develop three signals that accurately predict where the model will fail. To close coverage gaps at training time, we develop a coverage-aware sampling technique; to close them online, our hallucination predictors serve as curiosity rewards for targeted data collection, yielding a data-efficient finetuning recipe that adapts the pretrained world model to entirely unseen environments with as few as 50 real environment trajectories. Overall, our findings reveal that hallucination in world models is inherently a data coverage issue, and that the same signals used to detect it can also be used for mitigation."
+    },
+    {
+      "title": "OctoSense: Self-Supervised Learning for Multimodal Robot Perception",
+      "authors": "Anthony Bisulco, Jeremy Wang, Kostas Daniilidis, Randall Balestriero, Pratik Chaudhari",
+      "url": "https://arxiv.org/abs/2606.27317v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27317v1",
+      "published": "2026-06-25T17:30:49Z",
+      "summary": "We present OctoSense, an open-source sensor platform with stereo RGB and event cameras, LiDAR, a thermal camera, an inertial measurement unit, RTK-corrected global positioning system, and proprioception (CAN bus data from a car, and joint angles for a quadruped robot). The eponymous OctoSense dataset contains 59 hours of time-synchronized driving data across different types of environments at different times of the day, including situations with highly degraded sensors. We demonstrate multi-modal self-supervised learning using such real-world robotics data, where sensors have different representations, frequencies, latencies and noise. Our approach, a \"late-fusion\" masked autoencoder, (i) uses modality-specific tokenizers to account for different spatiotemporal characteristics of these sensors, and (ii) caches modality-specific tokens at inference time to process new measurements as they come. This architecture (i) is fast (6.68 ms and 112 ms on NVIDIA 5090 and Orin NX respectively, to compute the representation), (ii) performs better than existing image-only foundation models on tasks such as estimation of optical flow, depth, semantic segmentation, and ego-motion (translation, rotation, and steering angle), and (iii) predicts robustly at nighttime or in situations where sensory data is degraded. See our project page for links to the dataset, code, and supplementary videos: https://abisulco.com/octosense/."
+    },
+    {
+      "title": "LA4VLA: Learning to Act without Seeing via Language-Action Pretraining",
+      "authors": "Tao Lin, Yuxin Du, Yiran Mao, Zewei Ye, Yilei Zhong, Bing Cheng, Yiming Wang, Jiting Liu, Yang Tian, Junchi Yan, Feiran Wu, Zenan Meng, Hu Wei, Yuqian Fu, Gen Li, Bo Zhao",
+      "url": "https://arxiv.org/abs/2606.27295v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27295v1",
+      "published": "2026-06-25T17:13:02Z",
+      "summary": "Vision-Language-Action (VLA) models are commonly pretrained on robot demonstrations by jointly mapping visual observations and language instructions to actions. However, dense visual-action supervision can dominate the comparatively sparse language-action signal. As a result, policies may rely on visual shortcuts rather than learn how language conditions action execution, making them sensitive to visual variations. To address this limitation, we propose LA4VLA, a language-action pretraining framework that enables policies to acquire language-conditioned action priors without visual observations. These priors capture reusable manipulation skills shared across tasks and scenes, reducing reliance on scene-specific visual cues. Specifically, LA4VLA decomposes expert demonstration trajectories into atomic action segments and pairs each segment with a corresponding low-level action description. This yields LA4-33K, a dataset of 33K Language-Action (LA) episodes derived entirely from existing demonstrations without additional robot data collection. We further develop LA4VLA-1B, a lightweight 1B-parameter VLA model, and investigate three paradigms for incorporating language-action supervision into VLA learning: LA-only pretraining, sequential LA-to-VLA pretraining, and mixed LA-VLA pretraining. Across simulation and real-world tasks, LA-pretrained policies consistently outperform matched VLA-pretrained counterparts, while combining LA and VLA supervision leads to further gains. In particular, mixed LA-VLA pretraining improves the average success rate of LA4VLA-1B over the no-pretraining baseline by up to 17.8 and 45.0 percentage points in simulation and real-world tasks, respectively. These results establish LA4VLA as an effective and complementary pretraining strategy for building stronger and more robust VLA policies."
+    },
+    {
+      "title": "BOWConnect: Parallel Bayesian Optimization over Windows with Learned Local Cost Maps for Sample-Efficient Kinodynamic Motion Planning",
+      "authors": "Sourav Raxit, Abdullah Al Redwan Newaz, Jose Fuentes, Leonardo Bobadilla",
+      "url": "https://arxiv.org/abs/2606.27292v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27292v1",
+      "published": "2026-06-25T17:11:33Z",
+      "summary": "This paper presents BOWConnect, a bidirectional parallel kinodynamic motion planner that addresses three fundamental limitations of existing sampling-based methods: sample inefficiency in high-dimensional state spaces, unreliable cost heuristics under dynamic constraints, and poor performance in narrow passage environments. Unlike classical planners that rely on random control sampling and geometric distance heuristics, BOWConnect integrates Bayesian Optimization over Windows (BOW) as a learning-based steering function within a parallel tree-based exploration framework, enabling each worker to learn local cost maps and constraints to guide sampling toward dynamically feasible and collision-free controls. A bidirectional architecture simultaneously grows forward and backward trees from the start and goal regions in parallel threads, with a spatial hashing mechanism enabling fast connection queries and a boundary value problem solver generating kinodynamically consistent bridge trajectories. Extensive evaluations across ten benchmark environments demonstrate that BOWConnect achieves 100% success while delivering the fastest or near-fastest planning time in complex scenarios, including narrow passages and non-convex spaces where state-of-the-art planners fail or degrade substantially. Real-world deployment on a ground vehicle and a quadrotor confirms real-time planning with no collisions. Videos of real-world and simulated experiments, high-resolution versions of the figures, and the open-source code are available at https://bow-connect.github.io/."
+    },
+    {
+      "title": "E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation",
+      "authors": "Wen Ye, Peiyan Li, Tingyu Yuan, Yuan Xu, Xiangnan Wu, Chaoyang Zhao, Jing Liu, Nianfeng Liu, Yan Huang, Liang Wang",
+      "url": "https://arxiv.org/abs/2606.27268v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27268v1",
+      "published": "2026-06-25T16:50:21Z",
+      "summary": "Recently, a few works have made early attempts to study test-time scaling for embodied tasks. However, two major challenges remain unsolved: (1) reasoning can effectively improve the performance of the policy, but its scaling mechanism has seldom been studied; (2) historical information is essential, as embodied tasks are inherently long-horizon and sequential, making sole reliance on current observations for action scaling inadequate due to the lack of historical context utilization. To address these challenges, we introduce E-TTS, a modular and plug-and-play Embodied Test-Time Scaling framework that unifies reasoning and action scaling for robotic manipulation via history-aware iterative refinement with vision-language verifiers. To support joint reasoning-action scaling, E-TTS performs reasoning-action joint sampling and scoring in a pairwise manner. To better utilize historical information, E-TTS uses a history buffer to store historical context, which is then used by reasoning and action verifiers to evaluate the sampled candidates. Unlike conventional open-loop TTS methods, E-TTS introduces feedback generation into the sampling process to form a closed-loop iterative refinement mechanism, enhancing both inference efficiency and environmental adaptability. Each component functions as an independent and composable module, allowing flexible and adaptive configuration depending on task requirements. To evaluate the advantages of our framework, we conduct experiments across 4 different benchmarks, 6 environments, 3 embodiments, and 4 base vision-language-action models. The experimental results demonstrate that, without requiring additional expert data collection or retraining, E-TTS consistently improves performance, achieving up to a 33.14% increase in simulation and 26.62% in real-world scenarios."
+    },
+    {
+      "title": "Advancing Omnimodal Embodied Agents from Isolated Skills to Everyday Physical Autonomy",
+      "authors": "",
+      "url": "https://arxiv.org/abs/2606.27251v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.27251v1",
+      "published": "2026-06-25T16:36:35Z",
+      "summary": "Building persistent embodied agents in unstructured environments demands unified orchestration of heterogeneous tools spanning both cyber (APIs, IoT) and physical (manipulation, navigation) domains, coupled with autonomous recovery from physical failures that inevitably arise over extended operation. Existing systems treat these as separate problems: VLM-based planners lack a unified cyber-physical action space, agent frameworks accumulate unbounded context that degrades temporal coherence, and VLA policies execute open-loop without detecting their own failures. We argue that persistent autonomy requires not a monolithic model..."
+    }
+  ]
+}
