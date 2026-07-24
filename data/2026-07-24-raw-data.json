@@ -1,0 +1,1563 @@
+{
+  "fetch_date": "2026-07-24",
+  "total_items": 173,
+  "items": [
+    {
+      "title": "AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation",
+      "url": "https://arxiv.org/abs/2607.21588v1",
+      "published_date": "2026-07-23T17:58:08+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Learning effective robot manipulation policies requires diverse, high-quality demonstrations, yet existing data pipelines are often difficult to scale because they rely on specialized hardware, centralized operators, or fixed task suites. We present AXIS, a growable community-driven data engine and benchmark for scalable robot learning, which enables browser-based teleoperation for large-scale dem"
+    },
+    {
+      "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2607.21582v1",
+      "published_date": "2026-07-23T17:57:09+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Compositional generalization is essential for robot to follow diverse instructions. However, pretrained policies are known to take shortcuts, deferring to salient cues rather than grounding language. We introduce a diagnostic framework that localizes this failure to individual \\textit{instruction factors}, \\textit{e.g.,} reusable semantic components such as color, verb, object, size, and spatial a"
+    },
+    {
+      "title": "Beyond Episodic Evaluation: Memory Architectural Bottlenecks in Sequential Embodied Question Answering",
+      "url": "https://arxiv.org/abs/2607.21571v1",
+      "published_date": "2026-07-23T17:50:45+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Embodied question answering (EQA) is traditionally evaluated under an episodic formulation, where agents solve each task independently and reset internal state between episodes. However, real-world robots operate continuously and must accumulate, retain, and selectively reuse information acquired from prior interactions. Despite this practical requirement, the architectural mechanisms needed to su"
+    },
+    {
+      "title": "GS-Agent: Creating 4D Physical Worlds With Generative Simulation",
+      "url": "https://arxiv.org/abs/2607.21522v1",
+      "published_date": "2026-07-23T17:04:36+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Creating dynamic and physically realistic 4D worlds from natural language descriptions is both fascinating and challenging. Traditional computer graphics methods rely on manual creation, requiring extensive human effort to fine-tune materials, motions, and visual fidelity. Recent advances in generative foundation models have sparked interest in learning to generate such 4D worlds from large-scale "
+    },
+    {
+      "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
+      "url": "https://arxiv.org/abs/2607.21488v1",
+      "published_date": "2026-07-23T16:28:35+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Coordinating autonomous vehicles at unsignalized intersections remains a critical challenge for multi-agent reinforcement learning (MARL) systems, which typically struggle with combinatorial action spaces, reliance on privileged information, or rigid agent designs. We propose Master-Agent Proto-plan System (MAPS), a hierarchical deep reinforcement learning (DRL) architecture in which a centralized"
+    },
+    {
+      "title": "GLAM-SLAM: Real-time Gaussian Large-scale Mapping via Flow Densification and Spatial Decomposition",
+      "url": "https://arxiv.org/abs/2607.21416v1",
+      "published_date": "2026-07-23T15:22:42+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Existing Gaussian-splatting-based monocular Simultaneous Localization and Mapping (SLAM) systems are either tailored to short sequences, are not real-time, or suffer from prohibitive GPU memory requirements, limiting their applicability in realistic, long-horizon scenarios. To address this, we present GLAM-SLAM, a real-time, decoupled Gaussian-splatting SLAM system designed for large-scale outdoor"
+    },
+    {
+      "title": "VoLN: Vision-Only Long-Horizon Navigation---Paradigm, Benchmark, and Method",
+      "url": "https://arxiv.org/abs/2607.21400v1",
+      "published_date": "2026-07-23T15:02:01+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Vision-and-Language Navigation (VLN) enables embodied agents to follow natural-language instructions. However, route-level instructions commonly encode spatial priors, such as orientation, distance, and layout, that are not explicitly available from onboard sensing at deployment in open, GPS-denied environments. Benchmark performance under such interfaces therefore jointly reflects visual navigati"
+    },
+    {
+      "title": "Grasp, Handover, Rotate: Bimanual Object Reorientation via Compositional Diffusion and Energy-Based Optimization",
+      "url": "https://arxiv.org/abs/2607.21341v1",
+      "published_date": "2026-07-23T14:11:14+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Bimanual object reorientation - picking an object, handing it over between two arms, and placing it in a desired target pose - is valuable when direct placement from the initial grasp is infeasible due to collisions, kinematic constraints, or poor final orientation. However, achieving this under multiple competing objectives remains challenging. We introduce BiCompoDiff, a compositional diffusion "
+    },
+    {
+      "title": "Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar",
+      "url": "https://arxiv.org/abs/2607.21309v1",
+      "published_date": "2026-07-23T13:31:54+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Localizing nearby humans and estimating their facing direction are key capabilities for safe navigation and socially aware human-robot interaction. Many pose-estimation pipelines target cameras and 3D LiDAR or assume GPU-class compute, whereas service robots are often equipped only with omnidirectional planar LiDARs and modest onboard processors. We address omnidirectional human detection and rela"
+    },
+    {
+      "title": "HGeo-TopoMap: Boosting Topological Mapping with Hierarchical Geometric Priors",
+      "url": "https://arxiv.org/abs/2607.21281v1",
+      "published_date": "2026-07-23T13:02:18+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Topological maps are key outputs of autonomous driving perception systems, delivering essential road information for path planning. They identify instances such as centerlines and traffic signs, along with their connectivity relationships. Due to the lack of explicit markings for centerlines in real-world environments, the detection of centerline instances remains a significant challenge. To tackl"
+    },
+    {
+      "title": "FORGE-plus: Force-Budgeted Recovery for Contact-Rich Assembly with a Frozen LLM Supervisor",
+      "url": "https://arxiv.org/abs/2607.21227v1",
+      "published_date": "2026-07-23T11:43:31+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Force-conditioned reinforcement learning (RL) enables tight-clearance assembly under a commanded force ceiling, but practical deployment requires determining an appropriate force limit for each object and recovering from insertion failures without exceeding it. We present a two-layer framework in which a frozen, text-only large language model (LLM) assigns a per-object force ceiling before executi"
+    },
+    {
+      "title": "RL-MACRO: A Cybernetic Closed-Loop Intelligence Framework for Multimodal Adaptive Robotic Craniotomy",
+      "url": "https://arxiv.org/abs/2607.21113v1",
+      "published_date": "2026-07-23T09:41:28+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Autonomous robotic craniotomy requires continuous regulation of tool-tissue interactions to mitigate mechanical overload and thermal damage while maintaining surgical efficiency. However, this process is inherently partially observable due to unknown, time-varying tissue properties and the inability to directly measure cutting temperatures under physical occlusion. To address these challenges, we "
+    },
+    {
+      "title": "TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects",
+      "url": "https://arxiv.org/abs/2607.21071v1",
+      "published_date": "2026-07-23T09:04:11+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Autonomous biomedical laboratories increasingly rely on visual perception to recognize, localize, and manipulate transparent plasticware, yet high-quality real-world datasets for this setting remain limited. The scarcity of domain-relevant data is particularly restrictive in cluttered multi-object scenes, where mutual occlusion and view-dependent appearance changes remain challenging even for cont"
+    },
+    {
+      "title": "Human-Inspired Framework for Robotic Craniotomy: Integrating Multimodal Fusion and Adaptive Trajectory Adjustment",
+      "url": "https://arxiv.org/abs/2607.21058v1",
+      "published_date": "2026-07-23T08:46:42+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Manual craniotomy is a high-risk, skill-dependent procedure associated with surgeon fatigue and potential dural injury. While robotic approaches have improved safety, existing open-loop systems rely solely on preoperative images and cannot compensate for intraoperative registration errors or tissue deformation. To address this, we propose a human-inspired closed-loop robotic craniotomy framework t"
+    },
+    {
+      "title": "GuidedAttention: Interpretable and Correctable Visual Attention for OOD-Robust Robot Manipulation via Imitation Learning",
+      "url": "https://arxiv.org/abs/2607.21049v1",
+      "published_date": "2026-07-23T08:33:40+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "End-to-end visuomotor policies provide little opportunity for humans to understand or correct the policy's visual attention. We propose GuidedAttention, a visuomotor imitation learning framework that introduces interpretable and correctable visual attention as an explicit intermediate representation. Task-relevant attention keypoints are predicted from camera images and condition a diffusion-based"
+    },
+    {
+      "title": "A Real-Time Generalized Nash Equilibrium Framework for Interaction-Aware Autonomous Driving in Mixed Traffic",
+      "url": "https://arxiv.org/abs/2607.21043v1",
+      "published_date": "2026-07-23T08:25:01+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Safe and efficient navigation in mixed-traffic environments remains a critical challenge for Autonomous Vehicles (AVs), primarily due to the complex interdependence between the AV's decisions and the unpredictable reactions of human drivers. This paper introduces a comprehensive decision-making framework that formulates the driving interaction as a Generalized Nash Equilibrium Problem (GNEP). Unli"
+    },
+    {
+      "title": "ZONDA: Zero-shot Object Navigation with Dynamic Avoidance in Multi-floor Environments",
+      "url": "https://arxiv.org/abs/2607.21025v1",
+      "published_date": "2026-07-23T08:07:52+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "In Object Goal Navigation task, existing methods are typically restricted to static and single-floor environments, ignoring cross-floor topologies and dynamic pedestrian, which limits their real-world deployment. To address these limitations, we propose ZONDA, a zero-shot object navigation with dynamic avoidance framework. In particular, ZONDA integrates three core components: (i) Heuristic multi-"
+    },
+    {
+      "title": "TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation",
+      "url": "https://arxiv.org/abs/2607.21017v1",
+      "published_date": "2026-07-23T08:02:53+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The development of generalizable robotic manipulation policies is inherently bounded by the availability of large-scale, high-fidelity scene data. While recent automated synthesis methods attempt to bridge this gap via text-to-layout hallucination or simplified procedural generation, they frequently suffer from physical implausibility and fail to capture the complex, dense clutter of actual human "
+    },
+    {
+      "title": "Distributed Model-Based Diffusion For Scalable Multi-Robot Trajectory Optimization",
+      "url": "https://arxiv.org/abs/2607.20992v1",
+      "published_date": "2026-07-23T07:16:59+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Trajectory optimization for multi-robot systems remains a critical challenge, particularly when navigating highly non-convex, non-linear, and non-differentiable environments. While Model-Based Diffusion (MBD) has recently emerged as a promising sampling-based optimization paradigm for single-robot trajectory generation, extending it to multi-robot systems results in a centralized, high-dimensional"
+    },
+    {
+      "title": "Deep Reinforcement-Learning-Guided Model Predictive Control for Preventing Overtakes in Autonomous Racing",
+      "url": "https://arxiv.org/abs/2607.20973v1",
+      "published_date": "2026-07-23T06:50:59+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This paper addresses defensive blocking in autonomous racing, where a vehicle must prevent a faster opponent from overtaking while operating near its dynamic limits. Different from lap-time minimization, we formulate defense as a spatial occupancy regulation problem via a hierarchical reinforcement-learning guided model predictive control framework. A Soft Actor-Critic strategic layer operates in "
+    },
+    {
+      "title": "Interaction Dynamics Modeling and Predictive Control for Safe Steerable Catheter--Tissue Interaction",
+      "url": "https://arxiv.org/abs/2607.20939v1",
+      "published_date": "2026-07-23T05:32:48+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Safe steerable catheter control is fundamentally a problem of interaction dynamics: the tip must follow a planned motion, remain compliant against moving tissue, reject friction and hysteresis, and respect a clinically meaningful never-exceed contact-force bound. We formulate catheter--tissue interaction dynamics in the scalar tip-normal coordinate of a single-segment single-tendon catheter. A par"
+    },
+    {
+      "title": "URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation",
+      "url": "https://arxiv.org/abs/2607.20912v1",
+      "published_date": "2026-07-23T04:46:19+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Learning-based manipulation policies usually predict robot actions from sensory observations and leave their execution to a separate low-level controller. In rigid contact, this separation can be problematic: the same motion to a virtual target or compliant motion command can lead to unstable contact, tracking error, excessive loading, or tool damage, depending on the low-level controller. In this"
+    },
+    {
+      "title": "Robostral Navigate",
+      "url": "https://arxiv.org/abs/2607.20785v1",
+      "published_date": "2026-07-22T23:13:05+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Deploying navigation systems at scale requires a recipe that minimizes sensor assumptions, generalizes across robot embodiments, and trains efficiently. Yet, today's best systems depend on depth sensors, multi-camera rigs, or pre-built maps, limiting the hardware they support and increasing deployment cost. We introduce Robostral Navigate, an 8B vision-language model built around this scalability "
+    },
+    {
+      "title": "Socially Consistent Multi-Robot Navigation Using Decoupled Planning and Trajectory Coordination",
+      "url": "https://arxiv.org/abs/2607.20772v1",
+      "published_date": "2026-07-22T22:38:07+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The successful integration of mobile robots in human-centric environments requires navigation that is not only safe and efficient, but also predictable and aligned with social conventions, key precursors for human comfort and acceptance. While significant research addresses short-term human-aware planning, these methods often lack mechanisms for ensuring consistent and predictable behaviors across"
+    },
+    {
+      "title": "Emergent Compositional Skills in Mixture-of-Experts VLAs",
+      "url": "https://arxiv.org/abs/2607.20771v1",
+      "published_date": "2026-07-22T22:36:52+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "We consider the problem of learning compositional robot policies end-to-end from expert demonstrations, without any pre-specified notion of task decomposition or hierarchy. We ask whether a VLA trained with a simplified Mixture-of-Experts (MoE) action head can emergently learn to decompose tasks into reusable, interpretable primitives. We find that learned experts are heavily reused across tasks a"
+    },
+    {
+      "title": "A real-time RGB-D perception pipeline for autonomous impact hammers in mining: self-filtering, rock segmentation and rock-breaking poses generation",
+      "url": "https://arxiv.org/abs/2607.20748v1",
+      "published_date": "2026-07-22T22:00:29+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Impact hammers, also known as rock-breakers, are essential machines in mining operations, where they perform secondary reduction. In underground mining, these machines are typically teleoperated, limiting operational efficiency. This paper presents a real-time RGB-D perception pipeline as a step towards automating the operation of hydraulic impact hammers used in mining. The proposed system simult"
+    },
+    {
+      "title": "Self-Supervised Bio-Inspired Robotic Trajectory Planning with Obstacle Avoidance",
+      "url": "https://arxiv.org/abs/2607.20743v1",
+      "published_date": "2026-07-22T21:47:56+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Trajectory planning is a fundamental problem in robotics, requiring the generation of collision-free and efficient trajectories in a potentially complex environment. While sampling-based planners remain the dominant approach, they are often computationally expensive, particularly in high-dimensional spaces and obstacle-rich environments. Methods based on model learning offer a promising alternativ"
+    },
+    {
+      "title": "Decentralized UAV Swarms for Ground Target Protection in GPS- and Communication-Denied Environments",
+      "url": "https://arxiv.org/abs/2607.20710v1",
+      "published_date": "2026-07-22T20:26:07+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The presence of UAVs in military operations has recently increased, also increasing the demand for defense systems against UAV attacks. UAVs can also be used as countermeasures. Most available methods rely on UAV-to-UAV communication and global positioning. However, such resources may not be available in modern warfare scenarios. To address these limitations, we propose a pipeline for ground-targe"
+    },
+    {
+      "title": "FELT: Generating Tactile Signals from Vision for Visuo-Tactile Manipulation",
+      "url": "https://arxiv.org/abs/2607.20683v1",
+      "published_date": "2026-07-22T19:32:42+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The sense of touch is central to manipulation, especially when vision is occluded or ambiguous. Although combining vision and touch improves manipulation, learning robust visuo-tactile policies requires substantial tactile data. Such data remains scarcer than visual data, because tactile sensors are fragile, specialized, and hard to standardize. To address this, we present Feature-Extracted Latent"
+    },
+    {
+      "title": "Towards Capability-Aware Traversability Navigation for Unstructured Environments",
+      "url": "https://arxiv.org/abs/2607.20679v1",
+      "published_date": "2026-07-22T19:28:57+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Estimating traversability in unstructured environments requires conditioning on robot embodiment, as the same terrain can be traversable for one platform and unsafe for another. Existing methods often transfer predictions across morphologies through late-stage trajectory filtering rather than encoding platform constraints in the learned representation. We propose Capability-Aware Traversability (C"
+    },
+    {
+      "title": "Safe and Scalable Multi-Drone Payload Transport via CBF-based Reinforcement Learning with Zero-Shot Sim-to-Real Transfer",
+      "url": "https://arxiv.org/abs/2607.20665v1",
+      "published_date": "2026-07-22T19:01:57+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Multi-drone payload transportation has emerged as a promising research paradigm with potential applications in construction, logistics, and disaster response. However, the complex coupled dynamics among drones, cables, and payloads pose significant challenges, and existing approaches remain limited in safety and scalability, particularly in dynamic and unstructured environments. In this work, we p"
+    },
+    {
+      "title": "Scalable Low-Cost Laboratory Automation: A Digital Twin-Integrated Robotic Platform for Autonomous Liquid Handling (RAINBOTTM)",
+      "url": "https://arxiv.org/abs/2607.20662v1",
+      "published_date": "2026-07-22T18:47:32+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Laboratory automation accelerates discovery, yet its adoption is constrained by the high cost, proprietary design, and limited remote supervisability of commercial liquid-handling systems. This work presents RAINBOT\\textsuperscript{TM}, a low-cost, openly reproducible liquid-handling robot built by converting a consumer-grade Cartesian 3D printer (Elegoo Neptune 4 Max). The printer extruder is rep"
+    },
+    {
+      "title": "PhysCoRe: Physics-Corrected Residual World Models for Material-Aware Deformable Dynamics",
+      "url": "https://arxiv.org/abs/2607.20653v1",
+      "published_date": "2026-07-22T18:25:57+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Predicting how deformable objects evolve under robotic manipulation is a longstanding challenge. Existing approaches typically rely on per-object optimization to fit material parameters, which can be slow and cannot generalize, while end-to-end learned alternatives extrapolate poorly and often violate basic physical structure. We present PhysCoRe, a physics-corrected residual world model that coup"
+    },
+    {
+      "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.20399v1",
+      "published_date": "2026-07-22T17:35:43+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilizes Virtual Reality for upper-body teleoperation and Reinforcement Learning for lower-body balance and locomotion control. As a result, a single remote operator can see, manipulate, and navigate about a"
+    },
+    {
+      "title": "Distributed Acoustic Localization Array Deployed Using a Soft Everting Vine Robot",
+      "url": "https://arxiv.org/abs/2607.20392v1",
+      "published_date": "2026-07-22T17:26:08+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Soft robot exteroception is increasingly being explored for a variety of field applications. In this work, we present a sound-based system for localizing disaster victims in confined and unstructured environments, based on a distributed acoustic sensing architecture embedded along the body of a soft everting vine robot. We propose a dynamic Steered Response Power with Phase Transform framework tha"
+    },
+    {
+      "title": "Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats",
+      "url": "https://arxiv.org/abs/2607.20352v1",
+      "published_date": "2026-07-22T16:37:05+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Aquatic self-reconfigurable robots must assemble into desired shapes while ensuring safe interactions among multiple agents. This paper proposes a hybrid framework that combines distributed Model Predictive Control (MPC) with Control Barrier Functions (CBFs) for multi-agent shape formation and reconfiguration. Given a desired shape and target assignment, a distributed MPC scheme, solved via the Al"
+    },
+    {
+      "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
+      "url": "https://arxiv.org/abs/2607.20345v1",
+      "published_date": "2026-07-22T16:30:51+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distribution shifts, and environmental variability. This paper presents DEED (Data-Efficient Post-Training and Experience-Driven Learning), a systems-level approach evaluated on a supermarket chip-restockin"
+    },
+    {
+      "title": "Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments",
+      "url": "https://arxiv.org/abs/2607.20289v1",
+      "published_date": "2026-07-22T15:36:11+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "We consider a task planning scenario in which robots sharing a persistent environment are assigned tasks one at a time from a held-out sequence. Standard task planners, lacking foresight of future tasks and inconsiderate of others' constraints, solve each task in isolation, leaving terminal states that increase future cost for all, side effects that compound over lengthy task sequences. To reduce "
+    },
+    {
+      "title": "DINS-IO: Learned Inertial Odometry via Differentiable INS Consistency",
+      "url": "https://arxiv.org/abs/2607.20232v1",
+      "published_date": "2026-07-22T14:52:28+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The training of learned inertial odometry depends on dense, high-precision position ground truth from motion capture, visual-inertial odometry or SLAM, which is costly and hard to acquire at scale. We propose DINS-IO, which learns inertial odometry directly from raw IMU streams without position labels. Our key insight is that the strapdown INS velocity recursion is a strong, fully differentiable c"
+    },
+    {
+      "title": "SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments",
+      "url": "https://arxiv.org/abs/2607.20207v1",
+      "published_date": "2026-07-22T14:27:45+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Practical robotic grasping in complex scenes requires both 3D spatial reasoning and alignment with task-specific requirements. Vision-language models (VLMs) offer a natural way to specify these requirements using language, but existing approaches either use a VLM to predict the grasp directly with limited spatial awareness, or train the VLM together with the grasping model, which requires signific"
+    },
+    {
+      "title": "Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control",
+      "url": "https://arxiv.org/abs/2607.20110v1",
+      "published_date": "2026-07-22T13:10:22+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Humans can progressively acquire highly dynamic motor skills while preserving reliable everyday motor abilities. In contrast, existing humanoid controllers face a trade-off between generalist and specialist capabilities: generalist motion tracking policies struggle to reliably execute rare highly dynamic motions, whereas specialist training can degrade previously acquired behaviors. We introduce E"
+    },
+    {
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "url": "https://arxiv.org/abs/2607.20061v1",
+      "published_date": "2026-07-22T12:05:13+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Embodied visual tracking (EVT) requires a mobile agent to continuously follow a specific target described in natural language using only onboard vision. While recent vision-language-action (VLA) policies unify target identification and trajectory planning, their chain-of-thought (CoT) reasoning often operates in abstract spatial latents that are difficult to supervise and weakly aligned with expli"
+    },
+    {
+      "title": "Robots Acquire Manipulation Skills in Seconds from a Single Human Video",
+      "url": "https://arxiv.org/abs/2607.20033v2",
+      "published_date": "2026-07-22T11:20:05+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The ability to acquire skills rapidly and effortlessly while retaining those already mastered is essential for robots. However, current methods still rely on a cumbersome training-time loop that is costly and slow, while eroding skills already mastered. In this paper, we introduce HOST (Human-to-robot One-Shot Skill AcquisiTion), a framework that enables a robot to acquire skills in seconds from a"
+    },
+    {
+      "title": "Unified Prediction and Planning via Conflict-Aware Disjoint Parameter Training",
+      "url": "https://arxiv.org/abs/2607.19971v1",
+      "published_date": "2026-07-22T09:54:22+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Accurate motion prediction of surrounding agents and safe motion planning are two closely coupled key tasks for social robot navigation in crowded environments. Deploying these systems on resource-constrained edge devices necessitates compact, unified models that can perform both tasks simultaneously. However, within these compact shared encoders, recent unified models often overlook severe repres"
+    },
+    {
+      "title": "Optimal Placement of Docking Stations and Resident AUVs for Subsea Pipeline Inspection",
+      "url": "https://arxiv.org/abs/2607.19944v1",
+      "published_date": "2026-07-22T09:17:46+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "A two-stage mixed-integer linear programming framework is introduced for subsea pipeline incident response planning, jointly optimizing Subsea Docking Plate (SDP) placement and resident autonomous underwater vehicle allocation to minimize both maximum and average response times under spatial uncertainty. Phase 1 minimizes the maximum response time across all potential leak locations. Phase 2 reduc"
+    },
+    {
+      "title": "Diffusion ReRoll: Revisable Denoising for Robotic Sequential Prediction",
+      "url": "https://arxiv.org/abs/2607.19919v1",
+      "published_date": "2026-07-22T08:50:40+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "We propose Diffusion ReRoll, a diffusion-based framework for robotic sequential prediction that enables revisable denoising over horizons. Existing diffusion-based sequence predictors typically perform a single monotonic denoising process. In contrast, Diffusion ReRoll selectively re-noises regions that have become locally stable while the remaining regions continue denoising, so the re-noised reg"
+    },
+    {
+      "title": "Digital Twin Modeling of a Highly Automated Agricultural Tractor",
+      "url": "https://arxiv.org/abs/2607.19912v1",
+      "published_date": "2026-07-22T08:43:24+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "In efforts to increase research efficiency and availability, a digital twin of our research tractor (AMX G-trac) is created, focusing especially on the CAN communication for data reading and actuation command following the ISOBUS protocol. Mevea Simulation Software is utilized as the foundation, providing the kinematic model and visuals, while Python is used to read and write CAN messages over a K"
+    },
+    {
+      "title": "What Matters in Humanoid General Motion Tracking? An Empirical Study",
+      "url": "https://arxiv.org/abs/2607.19903v1",
+      "published_date": "2026-07-22T08:37:19+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Humanoid general motion tracking requires policies that can follow diverse whole-body references while maintaining balance. Building such policies involves many practical design choices, and their individual effects are often hard to assess. We address this issue with an empirical study of common modeling and training factors used in recent humanoid motion-imitation pipelines. To make the study co"
+    },
+    {
+      "title": "EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness",
+      "url": "https://arxiv.org/abs/2607.19880v1",
+      "published_date": "2026-07-22T08:10:49+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Cross-embodiment navigation is a key challenge in embodied intelligence. Due to differences in embodiment, the same visual observation may imply different actions for different agents, making prediction ambiguous when relying solely on vision. Existing studies mainly rely on reinforcement learning, which requires large-scale interaction and careful reward design, making it difficult to support sca"
+    },
+    {
+      "title": "KineBench: Benchmarking Embodied World Models via IDM-Free Kinematic Grounding",
+      "url": "https://arxiv.org/abs/2607.19876v1",
+      "published_date": "2026-07-22T08:04:17+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Evaluating the physical consistency of embodied world models(EWMs) is a critical open challenge. While closed-loop evaluation via simulator rollouts offers a more faithful assessment of physical plausibility than open-loop alternatives, existing frameworks almost exclusively rely on Inverse Dynamics Models(IDMs) for action extraction. Due to the intricate mapping from 2D pixel space to 3D kinemati"
+    },
+    {
+      "title": "SOPD-SocialNav: Selective On-Policy Distillation for Vision-Language Social Navigation",
+      "url": "https://arxiv.org/abs/2607.19850v1",
+      "published_date": "2026-07-22T07:35:35+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Vision-language models have shown strong potential for social robot navigation by leveraging rich semantic understanding of complex environments and human behaviors. However, large scale VLMs are difficult to deploy on resource-constrained robotic platforms, while lightweight VLMs often lack sufficient social reasoning capability. To address this problem, we propose SOPD-SocialNav, a selective on-"
+    },
+    {
+      "title": "Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards",
+      "url": "https://arxiv.org/abs/2607.19827v1",
+      "published_date": "2026-07-22T07:02:11+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Ensuring safety in Physical AI systems operating in real-world environments is a critical challenge, particularly in hospital wards where vulnerable patients, clinical staff, medical devices, and assistive robots coexist. In this paper, we reinterpret Clinical Pathways as explicit runtime safety specifications for embodied medical AI. We propose a conceptual robotic architecture that integrates we"
+    },
+    {
+      "title": "V2F: Vision-Informed Grasp Force Prediction for Damage-Aware Robotic Handling of Date Fruits",
+      "url": "https://arxiv.org/abs/2607.19804v1",
+      "published_date": "2026-07-22T06:36:55+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This paper presents a vision-informed grasp force prediction framework for robotic handling of date fruits. Addressing the dual challenge of high detachment forces and low bruise thresholds, we first conduct mechanical characterization on date samples to define a safe grasping envelope and quantify the relationship between fruit geometry and bioyield stress. In this work, we develop a Vision-to-Fo"
+    },
+    {
+      "title": "Defer to Plan: Adaptive Multi-Agent Fusion for End-to-End V2X Driving",
+      "url": "https://arxiv.org/abs/2607.19774v1",
+      "published_date": "2026-07-22T05:44:47+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Vehicle-to-everything-aided autonomous driving (V2X-AD) significantly enhances driving performance through information sharing. However, existing collaborative perception methods only optimize module-level perception capabilities and fail to effectively serve the ultimate planning and control tasks. We propose an end-to-end collaborative driving system that directly optimizes planning task perform"
+    },
+    {
+      "title": "EgoRecovery: Acquiring Failure Recovery Ability Through Human Recovery Demonstration",
+      "url": "https://arxiv.org/abs/2607.19745v2",
+      "published_date": "2026-07-22T04:44:26+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Robust embodied robots should be able to recover from failures and retry tasks in order to operate reliably in unstructured and noisy real-world environments. Achieving this capability requires training policies on data that captures recovery behaviors. However, collecting such data through robot teleoperation is difficult to scale, as it is time-consuming to induce diverse failure states, perform"
+    },
+    {
+      "title": "Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination",
+      "url": "https://arxiv.org/abs/2607.19719v1",
+      "published_date": "2026-07-22T03:38:15+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Latent world models improve sample efficiency in continuous control by optimizing policies over imagined latent trajectories, but common neural transitions offer limited direct control over modal persistence and error accumulation in long rollouts. We propose Koopman Dreamer, a Dreamer-style world model with a spectrally constrained deterministic latent dynamics core. Its Koopman-inspired backbone"
+    },
+    {
+      "title": "Morphing MILR: Design and control of a cable-driven limbless robot with rolling joints for maneuvering in complex environments",
+      "url": "https://arxiv.org/abs/2607.19714v1",
+      "published_date": "2026-07-22T03:29:39+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Limbless robots offer exceptional mobility in confined and cluttered environments due to their slender bodies and their ability to exploit body-terrain interactions. Recent designs incorporating compliance demonstrate robust locomotion without complex sensing or control; however, these systems typically rely on fixed body configurations, with each morphology specialized for a single locomotion mod"
+    },
+    {
+      "title": "Contact-Persistent Full Actuation for Aerial Physical Interaction",
+      "url": "https://arxiv.org/abs/2607.19708v1",
+      "published_date": "2026-07-22T03:21:02+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Fully actuated unmanned aerial vehicles (UAVs) are usually certified through rank conditions on a control-allocation matrix or through free-flight tracking performance. For aerial physical interaction, this certification may be incomplete. During sustained contact, part of the available wrench is consumed by the interaction task, and only the residual wrench remains available for stabilization, di"
+    },
+    {
+      "title": "NavVerse: Benchmarking Indoor-to-Outdoor Embodied Navigation in Continuous Robot Simulation",
+      "url": "https://arxiv.org/abs/2607.19695v1",
+      "published_date": "2026-07-22T02:53:46+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Robots deployed in delivery, campus, and emergency-response settings often need to navigate from buildings to streets within a single continuous episode. Existing benchmarks usually evaluate indoor and outdoor navigation separately, and many abstract away robot execution, leaving exit finding, boundary traversal, adaptation, and kinodynamic failures underexplored. We introduce NavVerse, a physics-"
+    },
+    {
+      "title": "Remote ID Spoofing-Aware Trajectory Planning for Small Unmanned Aerial Systems",
+      "url": "https://arxiv.org/abs/2607.19650v1",
+      "published_date": "2026-07-22T01:16:52+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This work presents a decentralized, spoofing-aware trajectory planning framework for small unmanned aerial systems operating under Remote Identification (RID) location spoofing attacks. Existing planners typically assume RID broadcasts are trustworthy, which can increase the risk of loss of separation and mid-air collisions when spoofing occurs. In contrast, the proposed approach explicitly treats"
+    },
+    {
+      "title": "LENS: LLM-guided Environment Simplification for Planning and Control in Clutter",
+      "url": "https://arxiv.org/abs/2607.19633v1",
+      "published_date": "2026-07-22T00:05:00+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Despite recent advances in general-purpose robotic manipulation, real-world multi-object clutter remains challenging to handle for today's prevalent approaches. The problem scales in complexity due to more objects and collisions, more unpredictable contact physics, distractors, and task ambiguity. Bridging this gap to real-world deployment requires effective scene abstractions; yet today, producin"
+    },
+    {
+      "title": "CRB-Driven Beamforming and Trajectory Optimization for UAV-assisted ISAC System",
+      "url": "https://arxiv.org/abs/2607.19609v1",
+      "published_date": "2026-07-21T22:25:03+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "In this paper, we study an unmanned aerial vehicle (UAV)-assisted integrated sensing and communication (ISAC) system, where a UAV enhances the sensing capability of a base station (BS) towards a target while ensuring reliable communication towards a downlink user. This architecture is practically attractive for future wireless networks due to the UAV's controllable mobility and adaptive sensing co"
+    },
+    {
+      "title": "A Splitting Architecture for Exact Reduced Coulomb Friction",
+      "url": "https://arxiv.org/abs/2607.19599v1",
+      "published_date": "2026-07-21T22:00:12+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Existing approaches to frictional contact dynamics typically either modify the Coulomb law to improve numerical robustness or solve the exact law in a fully coupled monolithic form. However, in its reduced form, exact Coulomb friction can be written as a cone complementarity problem with an augmented velocity, which reveals a natural split between a cone-constrained linear response and a scalar no"
+    },
+    {
+      "title": "Learning Personalized Safety Interventions for Haptic Human-Robot Shared Control",
+      "url": "https://arxiv.org/abs/2607.19534v1",
+      "published_date": "2026-07-21T19:28:41+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Haptic feedback provides an implicit channel for communicating safety intentions during human-robot shared control. Existing haptic guidance systems typically employ predefined intervention strategies that cannot accommodate the diverse safety preferences of individual users or application scenarios. To address this limitation, we propose a Learning from Haptics (LfH) framework that learns user-pr"
+    },
+    {
+      "title": "Milo, a Fully Autonomous Indoor/Outdoor Robotic Guide Dog",
+      "url": "https://arxiv.org/abs/2607.19530v1",
+      "published_date": "2026-07-21T19:19:23+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Many Blind and Low-Vision (BLV) people rely on guide dogs for moment-to-moment navigation, such as staying on path and avoiding obstacles and pedestrians. However, guide dogs are expensive to acquire and maintain (approximately \\$50k USD plus ongoing costs), often involve long waiting lists, and have relatively short life expectancies. While robot guide dogs offer a promising alternative, existing"
+    },
+    {
+      "title": "Emergent Autonomous Drifting for Collision Avoidance in Real-World Winter Driving Scenarios",
+      "url": "https://arxiv.org/abs/2607.19484v1",
+      "published_date": "2026-07-21T18:05:19+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Real-world collision avoidance is a core motivation for studying the dynamics and control of high sideslip drifting in vehicles, yet the practical benefit of such maneuvers has so far primarily been tested in scenarios explicitly engineered to require drifting. In this work, we explore the question of if and when drifting may be optimal for safety in real-world winter driving conditions. We presen"
+    },
+    {
+      "title": "ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation",
+      "url": "https://arxiv.org/abs/2607.19479v1",
+      "published_date": "2026-07-21T18:02:20+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Existing teleoperation systems are often tailored to specific robot hardware and task domains, limiting their scalability and adaptability. We present ModPack, a modular and extensible teleoperation system designed to support diverse robot embodiments and task requirements within a unified framework. At the core of ModPack is a self-contained wearable \"backpack\" that integrates onboard computation"
+    },
+    {
+      "title": "Masked Visual Actions for Unified World Modeling",
+      "url": "https://arxiv.org/abs/2607.19343v1",
+      "published_date": "2026-07-21T17:59:11+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Video models absorb rich priors over how the visual world moves, interacts, and responds to contact, making them promising substrates for robotic world modeling. The central challenge is how to communicate action to such models in a form aligned with the visual space in which they learned these interaction priors, yet still grounded in physical manipulation. We introduce Masked Visual Actions, a p"
+    },
+    {
+      "title": "From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs",
+      "url": "https://arxiv.org/abs/2607.19306v1",
+      "published_date": "2026-07-21T17:18:46+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Autonomous flight in cluttered environments requires a robot to build a geometric map of its surroundings and plan safe, dynamically feasible trajectories, all onboard and in real time. Conventional approaches treat mapping and planning as separate stages and often rely on binary occupancy for collision checking. We argue that these two stages should be co-designed around a single representation: "
+    },
+    {
+      "title": "No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation",
+      "url": "https://arxiv.org/abs/2607.19288v1",
+      "published_date": "2026-07-21T16:59:12+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Test-time scaling offers a promising method to improve the inference performance of Vision-Language Models (VLMs) without additional training. Existing approaches to vision-language navigation (VLN) for Unmanned Aerial Vehicle (UAV) typically relies on a single inference pass, which can falter in complex environments by producing suboptimal or unsafe trajectories. In this paper, we explore a simpl"
+    },
+    {
+      "title": "Stochastic Multi-Objective Kinodynamic Planning Against Adversaries",
+      "url": "https://arxiv.org/abs/2607.19284v1",
+      "published_date": "2026-07-21T16:56:34+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This paper addresses multi-objective kinodynamic planning in environments with stochastic hybrid adversaries that probabilistically transition to adversarial modes based on the ego state. The goal is to construct the Pareto-front of paths that trade off execution cost and the probability of safety constraint violation (risk). Existing chance-constrained planners evaluate risk over open-loop trajec"
+    },
+    {
+      "title": "Eversion-based robots can enable safe access,steering and endoscopic imaging within the spinal subarachnoid space",
+      "url": "https://arxiv.org/abs/2607.19274v1",
+      "published_date": "2026-07-21T16:46:00+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Safe navigation within the spinal subarachnoid space is constrained by its narrow, compliant, and delicate anatomy. Conventional catheters and continuum robots rely on proximal pushing, generating friction and shear along the tissue device interface that limit distal controllability and increase the risk of neural injury. Here, we present a 2 mm diameter eversion-growing robotic platform that enab"
+    },
+    {
+      "title": "Computing on the Fly: Navigating a Vision for the Future of Drone Computing",
+      "url": "https://arxiv.org/abs/2607.19213v1",
+      "published_date": "2026-07-21T15:42:35+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The report envisions a decade in which drones move goods, medical supplies, and information at a scale comparable to national infrastructure investments like highways and the electric grid. Potential applications include natural disaster detection drones that spot wildfire sources within minutes, medical supply chains that bypass ground congestion to reach rural hospitals, and nationwide fleets th"
+    },
+    {
+      "title": "STL-GCS: A Planner-Controller Framework for Signal Temporal Logic via Graphs of Time-varying Convex Sets",
+      "url": "https://arxiv.org/abs/2607.19196v1",
+      "published_date": "2026-07-21T15:30:55+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "We present a unified trajectory planning and control framework for the satisfaction of Signal Temporal Logic (STL) specifications defined over convex predicates. At the planning layer, STL tasks are encoded as time-varying convex sets in configuration space, specifically designed so that forward invariance of the system with respect to these sets implies satisfaction of the specification with a pr"
+    },
+    {
+      "title": "Cognitive Dual-Process Planning for Autonomous Driving with Structured Scene Knowledge and Verifiable Reasoning-Action Consistency",
+      "url": "https://arxiv.org/abs/2607.19194v2",
+      "published_date": "2026-07-21T15:29:21+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "High-level planning for autonomous driving is a knowledge-intensive engineering decision task that requires accurate scene understanding, timely inference, and internally consistent action selection. Vision-language models (VLMs) can make intermediate reasoning explicit, but their use in deployed planners is constrained by costly structured supervision, unnecessary reasoning in routine scenes, and"
+    },
+    {
+      "title": "Agentic Real2Sim: Physics-based World Modeling with Vision-Language Agents",
+      "url": "https://arxiv.org/abs/2607.19190v2",
+      "published_date": "2026-07-21T15:23:38+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Real-to-sim conversion for robotic interaction with objects remains labor-intensive because it requires more than visual reconstruction: a streamlined real2sim process must recover scene geometries and object states, infer physical parameters, and assemble actors, objects, cameras, poses, and trajectories into a runnable physical simulation. Today this process still depends on manual tuning of vis"
+    },
+    {
+      "title": "Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection",
+      "url": "https://arxiv.org/abs/2607.19174v1",
+      "published_date": "2026-07-21T15:12:11+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "With growing surgeon shortages, automating surgical sub-tasks such as tissue dissection offers a promising step toward reducing workload and expanding patient access. Prior work has relied on hand-crafted incision policies that cannot quantify uncertainty or has relied on simulation-based methods that require strong modeling assumptions. We instead view tissue attachment identification as an inher"
+    },
+    {
+      "title": "Design and stability analysis of an underactuated hand with passively rotating fingers",
+      "url": "https://arxiv.org/abs/2607.18950v1",
+      "published_date": "2026-07-21T10:37:18+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This paper presents an innovative design and stability analysis of an underactuated robotic finger with spatial mobility, designed to enhance gripping dexterity in robotic hands. The finger architecture incorporates a revolute joint at its base, enabling passive spatial rotation that facilitates both cylindrical and spherical grasping. With only two phalanges per finger, the design simplifies kine"
+    },
+    {
+      "title": "The Twist Decomposition of Serial Robots Under Lower-Mobility Tasks",
+      "url": "https://arxiv.org/abs/2607.18940v1",
+      "published_date": "2026-07-21T10:23:23+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "This paper introduces a twist decomposition framework for serial manipulators performing lower mobility tasks. Rather than relying on Jacobian null-space projections, the method separates the end-effector twist into task and redundant components using geometrically defined twist projectors. This formulation provides a direct and intuitive distinction between task-relevant and task-irrelevant motio"
+    },
+    {
+      "title": "NGPS: GPS-Denied Aerial Geo-Localization and 2.5D Reconstruction via Deep Satellite Image Matching and Multi-Rate Sensor Fusion",
+      "url": "https://arxiv.org/abs/2607.18936v1",
+      "published_date": "2026-07-21T10:20:08+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "We present NGPS (Next-Generation Positioning System), a visual geo-localization framework for high-altitude UAVs that provides GPS-free absolute positioning by matching down-facing images to georeferenced satellite imagery with deep features. The system combines (1) adaptive confidence-weighted UKF fusion, where NGPS covariance is modulated by RANSAC inlier ratio, reprojection error, and match con"
+    },
+    {
+      "title": "Pose-Parameterized Motion Planning and CBF-QP Self-Collision Filtering for a Long-Reach Drilling Boom",
+      "url": "https://arxiv.org/abs/2607.18855v1",
+      "published_date": "2026-07-21T08:41:49+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Long-reach drilling booms must reach successive poses without self-collision. Moving from operator-supervised control toward autonomy requires collision-aware motion planning and execution. For the Sandvik SB60, this study adapts established methods by integrating pose-parameterized planning with a capsule-based control barrier function quadratic program (CBF-QP) in measured-state inverse kinemati"
+    },
+    {
+      "title": "WorldScape Policy 2.0: Empowering Steerable World Action Modeling with Reasoning-Augmented Memory",
+      "url": "https://arxiv.org/abs/2607.18840v1",
+      "published_date": "2026-07-21T08:25:37+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "World Action Models (WAMs) offer a promising paradigm for robotic manipulation by jointly modeling visual state transitions and robot actions. However, existing WAMs are constrained by limited temporal context, coarse episode-level language supervision, and predominantly text-only conditioning, which hinder task-progress tracking and fine-grained language-video-action grounding while limiting visu"
+    },
+    {
+      "title": "Beyond Transformers: Linear Attention Policy for Open-Vocabulary Object Goal Navigation",
+      "url": "https://arxiv.org/abs/2607.18794v1",
+      "published_date": "2026-07-21T07:15:36+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Open-Vocabulary Object Goal Navigation (OVON) requires agents to operate under partial observability, making effective internal state updates critical for navigation performance. This update is implemented by the policy network, where recent approaches adopt Transformer-based backbones with self-attention over a context window to integrate temporal information. However, our controlled experiments "
+    },
+    {
+      "title": "Koopman DCM: Unstable Eigenfunctions as Data-driven Representations for Legged Balancing",
+      "url": "https://arxiv.org/abs/2607.18760v1",
+      "published_date": "2026-07-21T06:34:35+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "In legged locomotion, divergent components of motion (DCMs) have emerged as characteristic states for balance control. They isolate the unstable mode of the dynamics but, in existing formulations, apply only to reduced models such as the linear inverted pendulum. In this study, we show how DCMs can be more generally formulated as Koopman eigenfunctions. Whereas Koopman analysis typically targets e"
+    },
+    {
+      "title": "Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition",
+      "url": "https://arxiv.org/abs/2607.18737v1",
+      "published_date": "2026-07-21T05:53:29+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Understanding the computational basis of action recognition is a central challenge in social cognition as well as in human-robot interaction. Inspired by the Mirror Neuron System (MNS), we propose a two-level architecture for motor primitive discovery and online phase recognition applied to the NICO humanoid robot. At the first level, two Self-Organising Maps (SOMs) learn topographic representatio"
+    },
+    {
+      "title": "Correct-by-Construction Behavior Tree Synthesis from Signal Temporal Logic Specifications with Application to Robotic Missions",
+      "url": "https://arxiv.org/abs/2607.18731v1",
+      "published_date": "2026-07-21T05:43:19+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Behavior Trees (BTs) are widely adopted for complex task execution in robotics, providing modular, reactive control but lacking formal guarantees. However, existing correct-by-construction synthesis from Linear Temporal Logic (LTL) cannot express quantitative timing constraints. This letter synthesizes correct-by-construction BTs from Signal Temporal Logic (STL) specifications. The workspace is mo"
+    },
+    {
+      "title": "Confidence-Gated Vision-Only Heading Alignment for UAV-UGV Cooperative Systems",
+      "url": "https://arxiv.org/abs/2607.18713v1",
+      "published_date": "2026-07-21T05:09:32+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Vision-based heading prediction is useful for UAV--UGV cooperation, but accurate prediction alone does not guarantee that every predicted heading should be issued directly as a control command. This paper investigates the decision problem of when and how a fixed vision-based heading predictor should be trusted for command issuance. A lightweight confidence-gated framework is proposed in which exec"
+    },
+    {
+      "title": "RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2607.18709v2",
+      "published_date": "2026-07-21T05:05:01+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Existing robot datasets remain expensive to curate, embodiment-specific, and insufficiently annotated with the fine-grained structure required for generalizable reasoning, execution, or long-horizon environment dynamics simulation. Building on our prior work, RoboInter1.0, we present RoboInter1.5, an extended and holistic suite of intermediate representations for both robotic manipulation and embo"
+    },
+    {
+      "title": "How defensive driving enhances driving safety: A driving simulator study on drivers' defensive driving behaviors",
+      "url": "https://arxiv.org/abs/2607.18663v1",
+      "published_date": "2026-07-21T03:20:42+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Defensive driving is widely recognized as an advanced driving skill. However, whether and how defensive driving affects driving safety remains insufficiently investigated. This study examines the behavioral characteristics of defensive driving, its impact on driving safety, and the underlying mechanisms. First, defensive driving is defined regarding operational timing and application scenario. The"
+    },
+    {
+      "title": "MVP-Tac: A Miniaturized Dual-Modal Vision and Photoelastic Tactile Sensor for Robot-Assisted Minimally Invasive Surgery",
+      "url": "https://arxiv.org/abs/2607.18660v1",
+      "published_date": "2026-07-21T03:08:14+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Robot-assisted minimally invasive surgery (RMIS) offers major benefits over open and conventional laparoscopic procedures, yet it still lacks tactile feedback for palpation while operating under strict requirements to preserve reliable vision for navigation and safety. In practice, visual feedback is indispensable, and tactile solutions that cannot coexist with vision are difficult to translate in"
+    },
+    {
+      "title": "Fabric Pneumatic Artificial Muscles Based on the Drawstring Principle",
+      "url": "https://arxiv.org/abs/2607.18641v1",
+      "published_date": "2026-07-21T02:20:38+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Pneumatic artificial muscles have wide applications in robotics and industrial fields. Conventional pneumatic artificial muscles generate extra radial deformation during axial contraction, which severely wastes available working space. Inspired by the widely adopted drawstring principle in textile products, this paper proposes a novel drawstring fabric pneumatic artificial muscle (DPAM). Unlike tr"
+    },
+    {
+      "title": "End-to-end Conditional Diffusion for Realistic and Controllable Visual Traffic Scenario Generation",
+      "url": "https://arxiv.org/abs/2607.18637v1",
+      "published_date": "2026-07-21T02:13:25+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Generating closed-loop traffic scenarios that are both realistic and controllable is crucial for evaluating autonomous driving systems, especially under rare safety-critical interactions. Existing learning-based methods often struggle to balance controllability and realism, offering either limited fine-grained control over traffic behavior or controllable scenarios at the expense of behavioral pla"
+    },
+    {
+      "title": "On the Limits of Sampling-Based Reachability: Geometry, Dynamics, and Sample Complexity",
+      "url": "https://arxiv.org/abs/2607.18606v1",
+      "published_date": "2026-07-21T00:54:27+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Reachability analysis is central to safety-critical control, robotics, and neural network verification, but classical computational methods, such as Hamilton--Jacobi reachability and set propagation, scale poorly with state dimension. Sampling-based methods have emerged as a promising alternative, often providing finite-sample guarantees that bound the probability-mass left uncovered. However, an "
+    },
+    {
+      "title": "Intelligent Multi-UAV Navigation in ITNTNs: A Hierarchical LLM Approach",
+      "url": "https://arxiv.org/abs/2607.18604v1",
+      "published_date": "2026-07-21T00:34:42+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "The deployment of high-speed Uncrewed Aerial Vehicles (UAVs) in 3D aerial highways necessitates robust coordination of physical flight kinematics and multi-tier network handovers. While Deep Reinforcement Learning (DRL) offers rapid tactical control, it lacks the zero-shot strategic reasoning required to quickly adapt to dynamic Integrated Terrestrial and Non-Terrestrial Networks (ITNTNs). Convers"
+    },
+    {
+      "title": "Bridging the Sim-to-Real Gap under Real-Time Constraints in Autonomous Racing",
+      "url": "https://arxiv.org/abs/2607.18586v1",
+      "published_date": "2026-07-20T23:45:46+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Autonomous racing exposes the sim-to-real gap under extreme operating conditions characterized by high speed, tight stability margins, and stringent real-time constraints. Although simulation is indispensable for development, controllers that perform well in simulation often degrade abruptly on physical platforms due to interacting effects of dynamics mismatch, estimation delay, and execution-laye"
+    },
+    {
+      "title": "STeP: Signal Temporal Logic for Precise Specifications for Action Generation with Vision Language Models",
+      "url": "https://arxiv.org/abs/2607.18580v1",
+      "published_date": "2026-07-20T23:26:32+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Vision-language-action (VLA) models have shown impressive generalization, but often lack interpretability and can struggle to follow precise natural language instructions that encode spatial, temporal, and logical requirements. We propose a hierarchical framework that uses Signal Temporal Logic (STL) as a shared representation connecting high-level language understanding with low-level robot execu"
+    },
+    {
+      "title": "Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform",
+      "url": "https://arxiv.org/abs/2607.18578v1",
+      "published_date": "2026-07-20T23:19:33+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "A line-scanning lidar yields range and azimuth values in a fixed plane. To perceive surrounding objects in 3D, there must be relative motion between the lidar plane and the object. Thus, using a rotating base-platform is promising for industrial applications where objects need to be scanned or inspected precisely, and is the main focus of this work. In the rotary platform setup, a 3D point cloud o"
+    },
+    {
+      "title": "Integrity-Gated Eco-CACC: Epistemic Admissibility for Cooperative Driving at Signalized Intersections",
+      "url": "https://arxiv.org/abs/2607.18565v1",
+      "published_date": "2026-07-20T22:59:52+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Eco-Cooperative Adaptive Cruise Control (Eco-CACC) systems rely on accurate localization, signal timing, and interaction awareness to optimize energy consumption at signalized intersections. Existing approaches typically assume that the internal world model used for optimization remains valid, making them vulnerable when sensing outages or semantic inconsistencies invalidate planning premises. Thi"
+    },
+    {
+      "title": "Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics",
+      "url": "https://arxiv.org/abs/2607.18540v1",
+      "published_date": "2026-07-20T22:14:04+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Robotic perception pipelines increasingly rely on large vision backbones deployed on SWaP-constrained edge platforms, making post-training quantization (PTQ) attractive for real-time inference. However, while PTQ often preserves clean in-distribution accuracy, we show that it can substantially degrade reliability under deployment-relevant distribution shifts (e.g., sensor noise, severe weather, an"
+    },
+    {
+      "title": "MAGE: Human-Like Macro Placement via Agentic Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2607.18536v1",
+      "published_date": "2026-07-20T22:02:22+00:00",
+      "entity": "arXiv cs.RO",
+      "category": "机构",
+      "type": "论文",
+      "summary": "Macro placement still requires substantial manual refinement in industrial physical design flows. We present MAGE (Macro Placement Agentic Engine), a multimodal multi-agent framework for macro placement refinement. MAGE decomposes the macro placement task into a six-phase workflow that combines structured floorplanning rules, visual checks, and iterative refinement. Expert floorplanning knowledge "
+    },
+    {
+      "title": "Holiday Robotics raises $105M for its FRIDAY wheeled humanoid",
+      "url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/",
+      "published_date": "2026-07-23T20:45:47+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Holiday's robot features a wheel-based mobile base, an upper body for dexterous manipulation, and hot-swappable batteries. The post Holiday Robotics raises $105M for its FRIDAY wheeled humanoid appeared first on The Robot Report."
+    },
+    {
+      "title": "Uber co-founder raises $1.7B for new robotics startup ATOMS",
+      "url": "https://www.therobotreport.com/uber-co-founder-raises-1-7b-for-new-robotics-startup-atoms/",
+      "published_date": "2026-07-23T18:53:11+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Travis Kalanick, the former CEO of Uber, said with ATOMS, he hopes to create physical automation to transform industry. The post Uber co-founder raises $1.7B for new robotics startup ATOMS appeared first on The Robot Report."
+    },
+    {
+      "title": "AMD unveils Kria module for real-time control, unified memory for robots",
+      "url": "https://www.therobotreport.com/amd-unveils-kria-module-real-time-control-unified-memory-robots/",
+      "published_date": "2026-07-23T18:30:56+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "AMD has launched the Ryzen AI Embedded X100 and Kria AI SoM, bringing unified memory and real-time control to challenge NVIDIA in robotics. The post AMD unveils Kria module for real-time control, unified memory for robots appeared first on The Robot Report."
+    },
+    {
+      "title": "Ropedia raises $22M to scale data collection for training robots",
+      "url": "https://www.therobotreport.com/ropedia-raises-22m-scale-data-collection-training-robots/",
+      "published_date": "2026-07-23T15:55:39+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Ropdeia's HOMIE is a head-mounted device, equipped with a 360º camera view, that captures first-person data for training robots. The post Ropedia raises $22M to scale data collection for training robots appeared first on The Robot Report."
+    },
+    {
+      "title": "Report shares the state of physical AI and robotics",
+      "url": "https://www.therobotreport.com/physical-ai-and-robotics/",
+      "published_date": "2026-07-22T20:48:30+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "A report looks at how physical AI is increasingly enabling autonomous systems to perceive their environments, make decisions, and act in the real world. The post Report shares the state of physical AI and robotics appeared first on The Robot Report."
+    },
+    {
+      "title": "Medtronic to launch AI compute platform for the operating room",
+      "url": "https://www.therobotreport.com/medtronic-launch-ai-compute-platform-operating-room/",
+      "published_date": "2026-07-22T17:22:00+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Touch Surgery bridges pre-operative planning and training, intra-operative tele-mentoring and tele-proctoring, and post-operative insights. The post Medtronic to launch AI compute platform for the operating room appeared first on The Robot Report."
+    },
+    {
+      "title": "U.K.-based Humanoid secures $152M in Series A funding",
+      "url": "https://www.therobotreport.com/uk-based-humanoid-secures-152m-in-series-a-funding/",
+      "published_date": "2026-07-21T23:43:12+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Humanoid said it has reached a $1.35 billion valuation as it scales its AI-driven industrial robots and expands commercial deployments. The post U.K.-based Humanoid secures $152M in Series A funding appeared first on The Robot Report."
+    },
+    {
+      "title": "Vicarious Surgical officially shutting down",
+      "url": "https://www.therobotreport.com/vicarious-surgical-officially-shutting-down/",
+      "published_date": "2026-07-21T23:12:18+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Vicarious Surgical raised about $300 million in total, most of that from a special purpose acquisition company (SPAC) merger in 2021. The post Vicarious Surgical officially shutting down appeared first on The Robot Report."
+    },
+    {
+      "title": "Generative Bionics unveils humanoid robot with full-body tactile sensing",
+      "url": "https://www.therobotreport.com/generative-bionics-unveils-humanoid-robot-with-full-body-tactile-sensing/",
+      "published_date": "2026-07-21T19:44:26+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Generative Bionics said its Gene.01 humanoid is fully sensorized, helping it quickly anticipate human presence and respond. The post Generative Bionics unveils humanoid robot with full-body tactile sensing appeared first on The Robot Report."
+    },
+    {
+      "title": "MISUMI Americas releases reshoring report, supports manufacturing training bill",
+      "url": "https://www.therobotreport.com/misumi-americas-releases-reshoring-report-supports-manufacturing-training-bill/",
+      "published_date": "2026-07-21T13:00:59+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "MISUMI Americas has examined reshoring of U.S. manufacturing and supported legislation to send workers overseas for training. The post MISUMI Americas releases reshoring report, supports manufacturing training bill appeared first on The Robot Report."
+    },
+    {
+      "title": "Friction is key to making better robot world models",
+      "url": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/",
+      "published_date": "2026-07-21T12:19:30+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Deploying world models in real robotic systems requires a step that receives less attention than the models themselves: conditioning. The post Friction is key to making better robot world models appeared first on The Robot Report."
+    },
+    {
+      "title": "Building robots for unpredictable, infrastructure-free environments",
+      "url": "https://www.therobotreport.com/building-robots-for-unpredictable-infrastructure-free-environments/",
+      "published_date": "2026-07-20T18:39:57+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Real-world robotics success requires building infrastructure-free systems that thrive in unpredictable, harsh outdoor environments. The post Building robots for unpredictable, infrastructure-free environments appeared first on The Robot Report."
+    },
+    {
+      "title": "BrainCo demonstrates brain-controlled robot AI platform",
+      "url": "https://www.therobotreport.com/brainco-demonstrates-brain-controlled-robot-ai-platform/",
+      "published_date": "2026-07-20T18:14:11+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "During BrainCo's demo, the mind-controlled robotic arm completed tasks that require precision, such as grasping a cup or picking up an apple. The post BrainCo demonstrates brain-controlled robot AI platform appeared first on The Robot Report."
+    },
+    {
+      "title": "Boston Dynamics to discuss the art behind human-robot interaction",
+      "url": "https://www.therobotreport.com/boston-dynamics-discuss-art-behind-human-robot-interaction/",
+      "published_date": "2026-07-20T17:53:58+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Boston Dynamics experts will share insights into design considerations for safe human-robot interaction in a webinar. The post Boston Dynamics to discuss the art behind human-robot interaction appeared first on The Robot Report."
+    },
+    {
+      "title": "AGIBOT unveils four embodied AI products for real-world operations at WAIC",
+      "url": "https://www.therobotreport.com/agibot-unveils-four-embodied-ai-products-real-world-operations-waic/",
+      "published_date": "2026-07-20T15:18:07+00:00",
+      "entity": "The Robot Report",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "AGIBOT said its demoes and industrial deployments show its progress in turning embodied AI capabilities into repeatable workflows. The post AGIBOT unveils four embodied AI products for real-world operations at WAIC appeared first on The Robot Report."
+    },
+    {
+      "title": "A mini robot to simplify dental treatment",
+      "url": "https://robohub.org/a-mini-robot-to-simplify-dental-treatment/",
+      "published_date": "2026-07-24T09:45:56+00:00",
+      "entity": "Robohub",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "A miniature robot developed at the University of Basel could help prepare teeth for a crown. Photo: University of Basel, Catherine Weyer. By Angelika Jacobs A routine check-up at the dentist ends with bad news: tooth decay has left a large cavity, and the tooth needs a crown. The treatment requires several follow-up appointments. During […]"
+    },
+    {
+      "title": "Pressure-free growing robots for soft medical robotics",
+      "url": "https://robohub.org/pressure-free-growing-robots-for-soft-medical-robotics/",
+      "published_date": "2026-07-23T07:53:40+00:00",
+      "entity": "Robohub",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Researchers at the University of Leeds and collaborators from the University of California San Diego won the Best Paper Award at RoboSoft, the leading international conference focused on soft robotics research. Soft robotics is gaining attention in medical applications because compliant machines can interact more safely with delicate objects and complex anatomy. The award-winning paper […]"
+    },
+    {
+      "title": "Interactive world simulator for robot policy training and evaluation",
+      "url": "https://robohub.org/interactive-world-simulator-for-robot-policy-training-and-evaluation/",
+      "published_date": "2026-07-20T08:39:44+00:00",
+      "entity": "Robohub",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Imagine you want to teach a robot to push an object on a table. The standard recipe in robot learning is to collect hundreds of expert demonstrations on a real robot, train an imitation learning policy on that data, and then evaluate the policy by running it many times on the same real robot. Both […]"
+    },
+    {
+      "title": "Undergrads’ weed-killing robot wins top prize",
+      "url": "https://robohub.org/undergrads-weed-killing-robot-wins-top-prize/",
+      "published_date": "2026-07-17T10:15:46+00:00",
+      "entity": "Robohub",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Andrew James (from left), Neil Morrison, Natalia Kurz and Michael Neiss work on a prototype of their weed-killing robot ahead of The Farm Robotics Challenge, which they won on May 21. By Holly Hartigan A team of Cornell undergraduates beat 95 other teams to take the grand prize at The Farm Robotics Challenge with their […]"
+    },
+    {
+      "title": "Bridging the 'Porch Gap'",
+      "url": "https://bostondynamics.com/blog/bridging-the-porch-gap/",
+      "published_date": "2026-07-21T16:48:48+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Boston Dynamics is testing a last-mile delivery solution where Spot will help get packages from van to doorstep with less strain."
+    },
+    {
+      "title": "Boston Dynamics plans $100M expansion expected to create 1,250 jobs",
+      "url": "https://www.masslive.com/business/2026/07/boston-dynamics-plans-100m-expansion-expected-to-create-1250-jobs.html",
+      "published_date": "2026-07-17T15:58:00+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Boston Dynamics plans approximately $100 million project that will transform operations and create 1,250 jobs."
+    },
+    {
+      "title": "Hyundai Now Owns All of Boston Dynamics, and the Robots Still Can't Build a Car",
+      "url": "https://finance.yahoo.com/technology/ai/articles/hyundai-now-owns-boston-dynamics-162055008.html",
+      "published_date": "2026-07-17T16:20:55+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "合作",
+      "summary": "Hyundai Motor Group has acquired the remaining stake in Boston Dynamics from SoftBank, taking full ownership."
+    },
+    {
+      "title": "Hyundai Motor Group to buy out Boston Dynamics",
+      "url": "https://global.chinadaily.com.cn/a/202607/20/WS6a5d942ea310986e2b4662e4.html",
+      "published_date": "2026-07-21T07:00:00+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "合作",
+      "summary": "Hyundai Motor Group to buy out Boston Dynamics, deal worth about 500 billion won ($335 million)."
+    },
+    {
+      "title": "Building Robots for the Real World: Boston Dynamics on Atlas, Automation, and the Future of Human Work",
+      "url": "https://innotechtoday.com/building-robots-for-the-real-world-boston-dynamics-on-atlas-automation-and-the-future-of-human-work/",
+      "published_date": "2026-07-20T16:36:18+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Boston Dynamics discusses Atlas, automation, and the future of human work in an in-depth interview."
+    },
+    {
+      "title": "Atlas' Journey to FIFA World Cup 2026™ | Boston Dynamics",
+      "url": "https://www.hyundaimotorgroup.com/en/tv/atlas-journey-to-fifa-world-cup-2026-boston-dynamics",
+      "published_date": "2026-07-22T06:13:51+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Explore Atlas' FIFA World Cup 2026 live performance story and discover how Boston Dynamics brought robotics to the pitch."
+    },
+    {
+      "title": "Samsung's new robotics division appoints former Boston Dynamics lead",
+      "url": "https://www.siliconrepublic.com/machines/samsungs-new-robotics-division-appoints-former-boston-dynamics-lead",
+      "published_date": "2026-07-21T08:44:27+00:00",
+      "entity": "Boston Dynamics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Samsung Electronics is establishing a new robotics division overseen by a recently hired former Hyundai Motor Group robotics strategist."
+    },
+    {
+      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+      "published_date": "2026-07-22T22:16:59+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "NVIDIA open-sources a GPU-accelerated Medical Physics Simulation framework for surgical robot developers."
+    },
+    {
+      "title": "Nvidia, Meet AMD, Your New Competition For Humanoid Robot Brains",
+      "url": "https://www.forbes.com/sites/johnkoetsier/2026/07/23/nvidia-meet-amd-your-new-competition-for-humanoid-robot-brains/",
+      "published_date": "2026-07-23T16:42:40+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Foundation's MK-2 Phantom humanoid robots will use AMD Ryzen chips, challenging Nvidia's dominance in AI chips for robotics."
+    },
+    {
+      "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+      "url": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+      "published_date": "2026-07-17T20:29:30+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Nvidia is expanding its physical AI and robotics portfolio with new edge AI hardware, robot foundation models, and developer software."
+    },
+    {
+      "title": "Nvidia Teams Up With Google on Robot Venture",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-google-robot-f13b135e",
+      "published_date": "2026-07-22T13:57:00+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "合作",
+      "summary": "Nvidia and Google are partnering with a European data-robotics startup Microagi as Alphabet earnings loom."
+    },
+    {
+      "title": "Jensen Huang Turns to Japan's Robots for Nvidia's Next Growth Engine",
+      "url": "https://observer.com/2026/07/jensen-huang-nvidias-future-japan-physical-ai/",
+      "published_date": "2026-07-23T12:34:56+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Nvidia CEO Jensen Huang is pitching Japan's robot makers, factories and government on physical A.I. as the company's next growth engine."
+    },
+    {
+      "title": "Nvidia shrinks Blackwell for mass robotics",
+      "url": "https://www.jonpeddie.com/news/nvidia-shrinks-blackwell-for-mass-robotics/",
+      "published_date": "2026-07-20T16:14:48+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Nvidia introduced Jetson Thor T3000 and T2000 modules in Tokyo, bringing Blackwell architecture to mass robotics."
+    },
+    {
+      "title": "Exclusive: Google, Nvidia deepen Europe robotics play with startup compute deal",
+      "url": "https://www.semafor.com/article/07/21/2026/google-nvidia-deepen-europe-robotics-play-with-microagi-compute-deal",
+      "published_date": "2026-07-22T08:00:00+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "合作",
+      "summary": "Google and Nvidia partner with German data-robotics startup Microagi to provide computing power for humanoid factory deployment."
+    },
+    {
+      "title": "NVIDIA unveils open-source simulation framework for surgical robotics",
+      "url": "https://www.massdevice.com/nvidia-unveils-simulation-framework-surgical-robotics/",
+      "published_date": "2026-07-23T00:00:02+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Nvidia announced a new open-source, GPU-accelerated simulation capability to help surgical robot developers."
+    },
+    {
+      "title": "NVIDIA Brings Robot AI On-Device as Japan's Top Manufacturers Join Cosmos Coalition",
+      "url": "https://www.techtimes.com/articles/320801/20260717/nvidia-brings-robot-ai-device-japans-top-manufacturers-join-cosmos-coalition.htm",
+      "published_date": "2026-07-17T11:59:12+00:00",
+      "entity": "NVIDIA",
+      "category": "公司",
+      "type": "合作",
+      "summary": "NVIDIA announced that more than 20 Japanese industrial firms including FANUC, Kawasaki Heavy Industries, and Yaskawa Electric joined the Cosmos Coalition."
+    },
+    {
+      "title": "Elon Musk Says This Will Be Tesla's 'Biggest Product Ever'—If It Can Solve the Supply Chain Issue",
+      "url": "https://www.inc.com/georgia-fearn/elon-musk-says-this-will-be-teslas-biggest-product-ever-if-it-can-solve-the-supply-chain-issue/91378137",
+      "published_date": "2026-07-23T00:58:24+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Elon Musk said Tesla's humanoid robot Optimus will be its 'biggest product ever,' but the company must build nearly the entire supply chain."
+    },
+    {
+      "title": "Elon Musk spelled out how hard it will be to design Optimus, scale up manufacturing",
+      "url": "https://www.businessinsider.com/elon-musk-optimus-tesla-humanoid-robot-design-scale-manufacturing-ai-2026-7",
+      "published_date": "2026-07-23T16:22:00+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Elon Musk discussed the difficulty of designing Optimus and scaling up manufacturing during Tesla's earnings call."
+    },
+    {
+      "title": "Tesla Says Optimus Is the First Robot That Learns by Watching",
+      "url": "https://www.pymnts.com/earnings/2026/tesla-says-optimus-is-the-first-robot-that-learns-by-watching/",
+      "published_date": "2026-07-23T17:30:15+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "Tesla says Optimus, now in production at its Fremont factory, will be the first humanoid robot to learn to work without being programmed."
+    },
+    {
+      "title": "Tesla Trains Optimus Robot With German Factory Data",
+      "url": "https://fuelcellsworks.com/2026/07/22/electric/tesla-employees-in-germany-to-train-optimus-humanoid-robot-with-factory-movement-data",
+      "published_date": "2026-07-23T12:49:00+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Tesla employees at Grünheide factory wear camera backpacks to collect movement data for training the Optimus humanoid robot."
+    },
+    {
+      "title": "Tesla's push into AI and robotics is proving costly",
+      "url": "https://www.axios.com/2026/07/22/tesla-earnings-ai-robotics-spending",
+      "published_date": "2026-07-22T23:44:36+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Tesla revenue jumped on record vehicle deliveries in Q2, but operating profit dipped because of heavy spending on R&D including robotics."
+    },
+    {
+      "title": "Tesla to Send First Optimus Builds to Academy, Says Production Begins This Year",
+      "url": "https://eletric-vehicles.com/tesla/tesla-to-send-first-optimus-builds-to-academy-says-production-begins-this-year/",
+      "published_date": "2026-07-22T21:28:19+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "First Optimus robots off Tesla's Fremont line will go to an internal training programme rather than to factory work or customers."
+    },
+    {
+      "title": "Humanoid Robots in 2026: What Is Actually Deployed",
+      "url": "https://www.technology.org/2026/07/18/humanoid-robots-in-2026-what-is-actually-deployed/",
+      "published_date": "2026-07-19T10:54:37+00:00",
+      "entity": "Tesla Optimus",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Analysis of actual humanoid robot deployments in 2026; Tesla has never published an Optimus production count with cumulative builds in the low hundreds."
+    },
+    {
+      "title": "BMW Group Plant Landshut develops software for humanoid robotics in component production",
+      "url": "https://www.press.bmwgroup.com/global/article/detail/T0459467EN/bmw-group-plant-landshut-develops-software-for-humanoid-robotics-in-component-production?language=en",
+      "published_date": "2026-07-21T07:00:00+00:00",
+      "entity": "Figure AI",
+      "category": "公司",
+      "type": "合作",
+      "summary": "BMW Group expands expertise in physical AI, with Plant Landshut taking on central software development tasks for humanoid robotics."
+    },
+    {
+      "title": "Agility Robotics plants its flag in Tesla's backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "published_date": "2026-07-17T20:19:49+00:00",
+      "entity": "Agility Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Agility Robotics is opening a 60,000-square-foot facility to train its humanoid robots in Fremont, California, near Tesla's factory."
+    },
+    {
+      "title": "Oregon robotics company chooses California for its big expansion",
+      "url": "https://www.oregonlive.com/silicon-forest/2026/07/oregon-robotics-company-chooses-california-for-its-big-expansion.html",
+      "published_date": "2026-07-20T20:49:00+00:00",
+      "entity": "Agility Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Agility Robotics plans a major expansion near Silicon Valley, opening a large software development office northeast of San Jose."
+    },
+    {
+      "title": "Tech Moves: Agility Robotics gets CFO",
+      "url": "https://www.geekwire.com/2026/tech-moves-agility-robotics-gets-cfo-microsoft-security-departure-zaps-legal-officer-new-kexp-cto/",
+      "published_date": "2026-07-23T17:34:01+00:00",
+      "entity": "Agility Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Agility Robotics names a CFO ahead of its plans to go public."
+    },
+    {
+      "title": "Leading humanoid startup isn't interested in the 'bidding wars' for top AI and robotics talent",
+      "url": "https://www.businessinsider.com/agility-robotics-humanoid-ai-talent-bidding-wars-salary-compensation-2026-7",
+      "published_date": "2026-07-20T21:30:00+00:00",
+      "entity": "Agility Robotics",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Agility Robotics has expanded with a new Silicon Valley hub, avoiding AI talent wars and focusing on culture over high salaries."
+    },
+    {
+      "title": "Agility Robotics opens new Fremont facility to accelerate physical AI development",
+      "url": "https://roboticsandautomationnews.com/2026/07/17/agility-robotics-opens-new-fremont-facility-to-accelerate-physical-ai-development/103426/",
+      "published_date": "2026-07-17T18:56:09+00:00",
+      "entity": "Agility Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Agility Robotics opened a new Fremont facility to accelerate physical AI development for its Digit humanoid robot."
+    },
+    {
+      "title": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate",
+      "url": "https://www.reuters.com/legal/litigation/intuitive-surgical-falls-obamacare-concerns-rekindle-medtech-demand-debate-2026-07-17/",
+      "published_date": "2026-07-17T15:44:26+00:00",
+      "entity": "Intuitive Surgical",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Intuitive Surgical shares slid about 13% after the surgical robot maker warned that changes to Obamacare subsidies could weigh on procedure growth."
+    },
+    {
+      "title": "J&J Finally Has a Rival to da Vinci",
+      "url": "https://finance.yahoo.com/healthcare/articles/j-j-finally-rival-da-191252711.html",
+      "published_date": "2026-07-23T19:12:52+00:00",
+      "entity": "Intuitive Surgical",
+      "category": "公司",
+      "type": "其他",
+      "summary": "FDA granted De Novo authorization for Johnson & Johnson's Ottava Robotic Surgical System, creating a rival to Intuitive's da Vinci."
+    },
+    {
+      "title": "Intuitive ties Q2 procedure softness to ACA subsidy expirations",
+      "url": "https://www.medtechdive.com/news/intuitive-ties-q2-procedure-softness-to-aca-subsidy-expirations/825548/",
+      "published_date": "2026-07-17T15:57:15+00:00",
+      "entity": "Intuitive Surgical",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Despite an unexpected slowdown in U.S. procedure growth, system placements remained healthy, and Intuitive maintained its 2026 forecast."
+    },
+    {
+      "title": "FDA clears Johnson & Johnson's surgical robot for 'the next era in surgery'",
+      "url": "https://www.fiercebiotech.com/medtech/fda-clears-johnson-johnsons-surgical-robot-next-era-surgery",
+      "published_date": "2026-07-23T12:27:04+00:00",
+      "entity": "Intuitive Surgical",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "The FDA has authorized Johnson & Johnson's Ottava Robotic Surgical System to compete with Intuitive Surgical and Medtronic."
+    },
+    {
+      "title": "Amazon Robotics planned for Austin Dog's Head development",
+      "url": "https://cbsaustin.com/news/local/amazon-is-the-first-major-prospective-tenant-at-austins-dogs-head-development",
+      "published_date": "2026-07-22T01:35:51+00:00",
+      "entity": "Amazon Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Amazon Robotics was named the first major prospective tenant at Austin's Dog's Head development project."
+    },
+    {
+      "title": "Amazon to lay off 494 workers at Florida warehouse as it adds advanced robotics",
+      "url": "https://www.tcpalm.com/story/money/business/2026/07/20/why-amazon-laid-off-494-workers-at-florida-warehouse/90948858007/",
+      "published_date": "2026-07-20T09:08:00+00:00",
+      "entity": "Amazon Robotics",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Amazon will lay off 494 workers at its Port St. Lucie warehouse as it begins a major facility expansion that will add advanced robotics."
+    },
+    {
+      "title": "宇树科技成功注册「UNITREE STORE」商标",
+      "url": "https://www.google.com/goto?url=CAESXQHuR6pNLohVaQkinhQW9HDmlwPskrPJ9KxJuZkr0P-WUBVqu6ZtiywrRf-FzC6VfRYf5VI4bHj2wdT4vcDrs22B7O_2UqpU3Aa1dBo3TYiNZ6_wKefzs3_oG34vmw==",
+      "published_date": "2026-07-20T06:09:29+00:00",
+      "entity": "Unitree",
+      "category": "公司",
+      "type": "其他",
+      "summary": "宇树科技注册「UNITREE STORE」商标，国际分类为9类科学仪器。"
+    },
+    {
+      "title": "宇树科技王兴兴解读人形机器人，提出的'ChatGPT时刻'产业逻辑",
+      "url": "https://www.google.com/goto?url=CAEScwHuR6pNCaahI4FZYTtIs59UJxkHiwxPb_A1RxJhHCBp6WBwiR1QmFYgTaXhif9gV5hIpvEOGTZoRatRhWfsOFGfuZRuyDUpWbmahOd2I1ot_X19Tog-6eWr_Mam9LMxFOmqWL_DougpWRi2rCFQQDEMNbg=",
+      "published_date": "2026-07-23T04:16:00+00:00",
+      "entity": "Unitree",
+      "category": "公司",
+      "type": "观点",
+      "summary": "宇树科技创始人王兴兴在2026世界互联网大会数字丝路发展论坛解读人形机器人产业逻辑。"
+    },
+    {
+      "title": "399万人民币！宇树3米载人变形机甲首亮相 「格斗机器人」秀拳脚",
+      "url": "https://www.google.com/goto?url=CAESeAHuR6pNqbQcn4SqGHDIemb0jSw0d70TtIT1UJ80FEmxGWhejDhorlt1BhasqXCQeTG49z_GoLhN06949U8c9l-HOEnfxIQrxvrWV8itdRdgjHQYZjPtrh7XoTRDJcLeQBl33rHPMmeeofMnhmXe0gA3sf2m6I9Wog==",
+      "published_date": "2026-07-22T02:58:00+00:00",
+      "entity": "Unitree",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "宇树科技在WAIC 2026上首次亮相3米载人变形机甲和格斗机器人，售价399万人民币。"
+    },
+    {
+      "title": "The Robots Cometh — Unitree CEO Wang Xingxing's first international interview",
+      "url": "https://time.com/article/2026/07/23/unitree-china-human-robotics/",
+      "published_date": "2026-07-23T12:00:03+00:00",
+      "entity": "Unitree",
+      "category": "公司",
+      "type": "观点",
+      "summary": "Unitree CEO Wang Xingxing, in his first international interview with Time Magazine, explains the possibilities and promises of humanoid robots."
+    },
+    {
+      "title": "AGIBOT在2026世界人工智能大会发布四款新机器人",
+      "url": "https://www.zhiding.cn/physical-ai/2026/0721/3193951.shtml",
+      "published_date": "2026-07-21T06:44:00+00:00",
+      "entity": "AGIBOT",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "智元机器人在WAIC 2026发布四款新品：A3 Ultra人形机器人、X2 EDU教育平台、G2 Max工业机器人及OmniHand 3 Ultra-M灵巧手。"
+    },
+    {
+      "title": "全球首个！实现自主打乒乓球的全尺寸人形机器人智元远征A3亮相WAIC",
+      "url": "https://www.jixin.tech/mobile/show.php?classid=1&id=7745&style=0&bclassid=1&cid=1&cpage=0",
+      "published_date": "2026-07-19T23:42:46+00:00",
+      "entity": "AGIBOT",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "智元远征A3全尺寸人形机器人在WAIC 2026亮相，是全球首个全程自主决策完成乒乓球对抗的全尺寸双足人形机器人。"
+    },
+    {
+      "title": "德银：中国人形机器人量产元年，关注零部件生态链",
+      "url": "https://nai500.com/zh-hans/blog/2026/07/8-45/",
+      "published_date": "2026-07-23T09:20:15+00:00",
+      "entity": "AGIBOT",
+      "category": "公司",
+      "type": "观点",
+      "summary": "德意志银行研报指出中国人形机器人产业正从概念走向规模化，2026年有望成为具身智能部署元年。"
+    },
+    {
+      "title": "优必选董事长'人类牛马'言论引争议，旗下人形机器人生意火爆",
+      "url": "https://m.thepaper.cn/newsDetail_forward_33625898",
+      "published_date": "2026-07-21T00:40:00+00:00",
+      "entity": "UBTECH",
+      "category": "公司",
+      "type": "其他",
+      "summary": "优必选创始人周剑因'人类牛马'相关言论引发争议，但旗下人形机器人生意火爆。"
+    },
+    {
+      "title": "优必选CFO张钜：全世界没有比大湾区更适合的地方",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-22/doc-iniisxzu8630832.shtml",
+      "published_date": "2026-07-22T13:39:00+00:00",
+      "entity": "UBTECH",
+      "category": "公司",
+      "type": "其他",
+      "summary": "优必选发布超仿生人形机器人U1，全渠道订单已突破1.3万台。"
+    },
+    {
+      "title": "优必选在盐城成立智能机器人公司",
+      "url": "https://www.caiwennews.com/article/1528352.shtml",
+      "published_date": "2026-07-24T01:49:05+00:00",
+      "entity": "UBTECH",
+      "category": "公司",
+      "type": "其他",
+      "summary": "优必选在盐城成立智能机器人有限公司，经营范围包括AI理论与算法软件开发等。"
+    },
+    {
+      "title": "直击WAIC|傅利叶展出5台人形机器人，GR Nano桌面级新品力争年内上市",
+      "url": "https://finance.sina.cn/2026-07-19/detail-iniiifmm0317116.d.html",
+      "published_date": "2026-07-19T04:18:29+00:00",
+      "entity": "Fourier Intelligence",
+      "category": "公司",
+      "type": "产品发布",
+      "summary": "傅利叶在WAIC 2026展出5台人形机器人，GR Nano桌面级新品力争年内上市。"
+    },
+    {
+      "title": "极佳视界与傅利叶达成战略合作'世界模型x人形本体'加速具身智能落地",
+      "url": "https://www.ebrun.com/20260720/688555.shtml",
+      "published_date": "2026-07-20T06:30:23+00:00",
+      "entity": "Fourier Intelligence",
+      "category": "公司",
+      "type": "合作",
+      "summary": "极佳视界与傅利叶达成战略合作，联手加速具身智能规模落地。"
+    },
+    {
+      "title": "傅利叶×上海科技大学：共建联合实验室",
+      "url": "https://www.163.com/dy/article/L2HA6B8O05568W0A.html",
+      "published_date": "2026-07-23T05:05:10+00:00",
+      "entity": "Fourier Intelligence",
+      "category": "公司",
+      "type": "合作",
+      "summary": "傅利叶与上海科技大学在WAIC生命健康专区论坛上宣布共建联合实验室。"
+    },
+    {
+      "title": "Google's Gemini delay exposes a deeper problem: employee frustration",
+      "url": "https://www.axios.com/2026/07/23/googles-deep-mind-ai-model-race",
+      "published_date": "2026-07-23T13:45:52+00:00",
+      "entity": "Google DeepMind",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Poor morale among employees is contributing to delayed model releases from Google's DeepMind AI lab."
+    },
+    {
+      "title": "I tried to stop Google DeepMind's Pentagon deal. Then I quit.",
+      "url": "https://www.transformernews.ai/p/i-tried-to-stop-google-deepmind-pentagon-deal-then-quit",
+      "published_date": "2026-07-21T14:02:23+00:00",
+      "entity": "Google DeepMind",
+      "category": "公司",
+      "type": "其他",
+      "summary": "Former Google DeepMind employee Alex Turner explains why he quit after the company reversed its AI weapons policy."
+    },
+    {
+      "title": "Stanford, MIT, Carnegie Mellon Lead First-Ever Benchmark of AI Production Capacity Across 50 Global Universities",
+      "url": "https://www.prnewswire.com/news-releases/stanford-mit-carnegie-mellon-lead-first-ever-benchmark-of-ai-production-capacity-across-50-global-universities--new-5w-ai-communications-report-302832426.html",
+      "published_date": "2026-07-22T17:31:00+00:00",
+      "entity": "CMU",
+      "category": "机构",
+      "type": "其他",
+      "summary": "5W AI Communications ranks Stanford, MIT, Carnegie Mellon, UC Berkeley, and Tsinghua in Tier I of AI production capacity across 50 global universities."
+    },
+    {
+      "title": "US eyes ban on Chinese humanoid robots as US-China tech rivalry intensifies",
+      "url": "https://amp.scmp.com/tech/policy/article/3361622/us-eyes-ban-chinese-humanoid-robots-us-china-tech-rivalry-intensifies",
+      "published_date": "2026-07-23T11:30:07+00:00",
+      "entity": "其他",
+      "category": "媒体",
+      "type": "政策",
+      "summary": "US House has passed a bill banning the military from using Chinese bots, as Washington ramps up restrictions on Chinese-made technology."
+    },
+    {
+      "title": "Top 10 humanoid robot startups to watch in 2026, ranked by total funding",
+      "url": "https://techfundingnews.com/top-humanoid-robot-startups-2026-funding/",
+      "published_date": "2026-07-24T10:05:20+00:00",
+      "entity": "其他",
+      "category": "媒体",
+      "type": "其他",
+      "summary": "Humanoid robot startups have raised $8.6B in 2026. From Figure AI and Apptronik to NEURA Robotics."
+    },
+    {
+      "title": "人形机器人公司Humanoid融资1.52亿美元，估值达13.5亿美元",
+      "url": "https://www.brandark.com/t/2nj7zzuF",
+      "published_date": "2026-07-21T23:26:00+00:00",
+      "entity": "其他",
+      "category": "媒体",
+      "type": "融资",
+      "summary": "英国机器人初创公司Humanoid宣布完成1.52亿美元A轮融资，投后估值达到13.5亿美元。"
+    }
+  ]
+}
